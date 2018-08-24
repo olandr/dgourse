@@ -1,5 +1,5 @@
 > **Please note**:
-This whole repo got transferred from my school account. Hence the lack of commits, issues and project-boards etc.
+This whole repo got transferred from my school account. Hence the lack of commits, issues and project-boards etc. However, I could not do a Github-transfer due to access mngt --- I resorted to just copy the files and relevant information.
 
 # kthgraph
 Experiments with a graph db (dgraph) focused on course relations on KTH

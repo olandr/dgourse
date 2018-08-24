@@ -1,4 +1,4 @@
-### Please note:
+> **Please note**:
 This whole repo got transferred from my school account. Hence the lack of commits, issues and project-boards etc.
 
 # kthgraph

@@ -1,0 +1,1758 @@
+_:allMasters <name> "All Masterprograms are linked to this." .
+_:allMasters <code> "allMasters"@se .
+_:archLD <name> "Architectural Lighting Design" .
+_:arch <name> "Architecture" .
+_:civarch <name> "Civil and Architectural Engineering" .
+_:envSust <name> "Environmental Engineering and Sustainable Infrastructure" .
+_:supd <name> "Sustainable Urban Planning and Design" .
+_:transGeo <name> "Transport and Geoinformation Technology" .
+_:urban <name> "Urbanism Studies" .
+_:electricPower <name> "Electric Power" .
+_:electroFusionSpace <name> "Electromagnetics, Fusion and Space Engineering" .
+_:embedded <name> "Embedded Systems" .
+_:infoNet <name> "Information and Network Engineering" .
+_:medical <name> "Medical Engineering" .
+_:nanotech <name> "Nanotechnology" .
+_:sysConRob <name> "Systems, Control and Robotics" .
+_:appCompMath <name> "Applied and Computational Mathematics" .
+_:physics <name> "Engineering Physics" .
+_:nuke <name> "Nuclear Energy Engineering" .
+_:sustainEE <name> "Sustainable Energy Engineering" .
+_:sustainTech <name> "Sustainable Technology" .
+_:entManage <name> "Entrepreneurship Innovation Management" .
+_:indManage <name> "Industrial management" .
+_:comsys <name> "Communication Systems" .
+_:compsci <name> "Computer Science" .
+_:ictInno <name> "ICT innovation" .
+_:interMediaTech <name> "Interactive Media Technology" .
+_:machLearn <name> "Machine Learning" .
+_:mediaManage <name> "Media Management" .
+_:softDist <name> "Software Engineering of Distributed Systems" .
+_:energyEnviro <name> "Chemical Engineering for Energy and Environment" .
+_:industrialBio <name> "Industrial and Environmental Biotechnology" .
+_:macromolecular <name> "Macromolecular Materials" .
+_:medicalBio <name> "Medical Biotechnology" .
+_:molecularscience <name> "Molecular Science and Engineering" .
+_:engMaterials <name> "Engineering Materials Science" .
+_:aerospace <name> "Aerospace engineering" .
+_:engDesign <name> "Engingering design" .
+_:engMech <name> "Engineering mechanics" .
+_:navalArch <name> "Navalarchitecture" .
+_:prodEngMange <name> "Production engineering management" .
+_:railway <name> "Railway Engineering" .
+_:techWorkHealth <name> "Technology, Work and Health" .
+_:vehicleEng <name> "Vehicle Engineering" .
+_:realestate <name> "Real Estate and Construction Management" .
+_:math <name> "Mathematics" .
+_:archLD <master> _:allMasters .
+_:arch <master> _:allMasters .
+_:civarch <master> _:allMasters .
+_:envSust <master> _:allMasters .
+_:supd <master> _:allMasters .
+_:transGeo <master> _:allMasters .
+_:urban <master> _:allMasters .
+_:electricPower <master> _:allMasters .
+_:electroFusionSpace <master> _:allMasters .
+_:embedded <master> _:allMasters .
+_:infoNet <master> _:allMasters .
+_:medical <master> _:allMasters .
+_:nanotech <master> _:allMasters .
+_:sysConRob <master> _:allMasters .
+_:appCompMath <master> _:allMasters .
+_:physics <master> _:allMasters .
+_:nuke <master> _:allMasters .
+_:sustainEE <master> _:allMasters .
+_:sustainTech <master> _:allMasters .
+_:entManage <master> _:allMasters .
+_:indManage <master> _:allMasters .
+_:comsys <master> _:allMasters .
+_:compsci <master> _:allMasters .
+_:ictInno <master> _:allMasters .
+_:interMediaTech <master> _:allMasters .
+_:machLearn <master> _:allMasters .
+_:mediaManage <master> _:allMasters .
+_:softDist <master> _:allMasters .
+_:energyEnviro <master> _:allMasters .
+_:industrialBio <master> _:allMasters .
+_:macromolecular <master> _:allMasters .
+_:medicalBio <master> _:allMasters .
+_:molecularscience <master> _:allMasters .
+_:engMaterials <master> _:allMasters .
+_:aerospace <master> _:allMasters .
+_:engDesign <master> _:allMasters .
+_:engMech <master> _:allMasters .
+_:navalArch <master> _:allMasters .
+_:prodEngMange <master> _:allMasters .
+_:railway <master> _:allMasters .
+_:techWorkHealth <master> _:allMasters .
+_:vehicleEng <master> _:allMasters .
+_:realestate <master> _:allMasters .
+_:math <master> _:allMasters .
+_:archLD <code> "archLD"@se .
+_:arch <code> "arch"@se .
+_:civarch <code> "civarch"@se .
+_:envSust <code> "envSust"@se .
+_:supd <code> "supd"@se .
+_:transGeo <code> "transGeo"@se .
+_:urban <code> "urban"@se .
+_:electricPower <code> "electricPower"@se .
+_:electroFusionSpace <code> "electroFusionSpace"@se .
+_:embedded <code> "embedded"@se .
+_:infoNet <code> "infoNet"@se .
+_:medical <code> "medical"@se .
+_:nanotech <code> "nanotech"@se .
+_:sysConRob <code> "sysConRob"@se .
+_:appCompMath <code> "appCompMath"@se .
+_:physics <code> "physics"@se .
+_:nuke <code> "nuke"@se .
+_:sustainEE <code> "sustainEE"@se .
+_:sustainTech <code> "sustainTech"@se .
+_:entManage <code> "entManage"@se .
+_:indManage <code> "indManage"@se .
+_:comsys <code> "comsys"@se .
+_:compsci <code> "compsci"@se .
+_:ictInno <code> "ictInno"@se .
+_:interMediaTech <code> "interMediaTech"@se .
+_:machLearn <code> "machLearn"@se .
+_:mediaManage <code> "mediaManage"@se .
+_:softDist <code> "softDist"@se .
+_:energyEnviro <code> "energyEnviro"@se .
+_:industrialBio <code> "industrialBio"@se .
+_:macromolecular <code> "macromolecular"@se .
+_:medicalBio <code> "medicalBio"@se .
+_:molecularscience <code> "molecularscience"@se .
+_:engMaterials <code> "engMaterials"@se .
+_:aerospace <code> "aerospace"@se .
+_:engDesign <code> "engDesign"@se .
+_:engMech <code> "engMech"@se .
+_:navalArch <code> "navalArch"@se .
+_:prodEngMange <code> "prodEngMange"@se .
+_:railway <code> "railway"@se .
+_:techWorkHealth <code> "techWorkHealth"@se .
+_:vehicleEng <code> "vehicleEng"@se .
+_:realestate <code> "realestate"@se .
+_:math <code> "math"@se .
+_:archLD <name> "Architectural Lighting Design" .
+_:arch <name> "Architecture" .
+_:civarch <name> "Civil and Architectural Engineering" .
+_:envSust <name> "Environmental Engineering and Sustainable Infrastructure" .
+_:supd <name> "Sustainable Urban Planning and Design" .
+_:transGeo <name> "Transport and Geoinformation Technology" .
+_:urban <name> "Urbanism Studies" .
+_:electricPower <name> "Electric Power" .
+_:electroFusionSpace <name> "Electromagnetics, Fusion and Space Engineering" .
+_:embedded <name> "Embedded Systems" .
+_:infoNet <name> "Information and Network Engineering" .
+_:medical <name> "Medical Engineering" .
+_:nanotech <name> "Nanotechnology" .
+_:sysConRob <name> "Systems, Control and Robotics" .
+_:appCompMath <name> "Applied and Computational Mathematics" .
+_:physics <name> "Engineering Physics" .
+_:nuke <name> "Nuclear Energy Engineering" .
+_:sustainEE <name> "Sustainable Energy Engineering" .
+_:sustainTech <name> "Sustainable Technology" .
+_:entManage <name> "Entrepreneurship Innovation Management" .
+_:indManage <name> "Industrial management" .
+_:comsys <name> "Communication Systems" .
+_:compsci <name> "Computer Science" .
+_:ictInno <name> "ICT innovation" .
+_:interMediaTech <name> "Interactive Media Technology" .
+_:machLearn <name> "Machine Learning" .
+_:mediaManage <name> "Media Management" .
+_:softDist <name> "Software Engineering of Distributed Systems" .
+_:energyEnviro <name> "Chemical Engineering for Energy and Environment" .
+_:industrialBio <name> "Industrial and Environmental Biotechnology" .
+_:macromolecular <name> "Macromolecular Materials" .
+_:medicalBio <name> "Medical Biotechnology" .
+_:molecularscience <name> "Molecular Science and Engineering" .
+_:engMaterials <name> "Engineering Materials Science" .
+_:aerospace <name> "Aerospace engineering" .
+_:engDesign <name> "Engingering design" .
+_:engMech <name> "Engineering mechanics" .
+_:navalArch <name> "Navalarchitecture" .
+_:prodEngMange <name> "Production engineering management" .
+_:railway <name> "Railway Engineering" .
+_:techWorkHealth <name> "Technology, Work and Health" .
+_:vehicleEng <name> "Vehicle Engineering" .
+_:realestate <name> "Real Estate and Construction Management" .
+_:math <name> "Mathematics" .
+_:aerospace <course> _:AK2030 .
+_:aerospace <course> _:SD2411 .
+_:aerospace <course> _:SD2601 .
+_:aerospace <course> _:SD2900 .
+_:aerospace <course> _:SF2863 .
+_:aerospace <course> _:SD2801 .
+_:aerospace <course> _:SG2212 .
+_:aerospace <course> _:MJ2241 .
+_:aerospace <course> _:SD2413 .
+_:aerospace <course> _:SD2414 .
+_:aerospace <course> _:SE2139 .
+_:aerospace <course> _:SD2415 .
+_:aerospace <course> _:SD2416 .
+_:aerospace <course> _:SD2432 .
+_:aerospace <course> _:SD2810 .
+_:aerospace <course> _:SD2920 .
+_:aerospace <course> _:AH2923 .
+_:aerospace <course> _:MJ2246 .
+_:aerospace <course> _:SD2805 .
+_:aerospace <course> _:SG2215 .
+_:aerospace <course> _:EF2240 .
+_:aerospace <course> _:EF2260 .
+_:aerospace <course> _:SD2925 .
+_:aerospace <course> _:AG1321 .
+_:aerospace <course> _:EF2200 .
+_:aerospace <course> _:EF2245 .
+_:aerospace <course> _:EL2520 .
+_:aerospace <course> _:EL2450 .
+_:aerospace <course> _:SD2905 .
+_:aerospace <course> _:SF2842 .
+_:aerospace <course> _:EL2620 .
+_:aerospace <course> _:EL2820 .
+_:aerospace <course> _:SF2866 .
+_:aerospace <course> _:EH2760 .
+_:aerospace <course> _:SD2450 .
+_:aerospace <course> _:SH2771 .
+_:aerospace <course> _:SF2812 .
+_:aerospace <course> _:SF289X .
+_:aerospace <course> _:SF2822 .
+_:aerospace <course> _:SF2832 .
+_:aerospace <course> _:SF2852 .
+_:appCompMath <course> _:SF2935 .
+_:appCompMath <track> _:acmCompMath .
+_:appCompMath <track> _:acmFinMath .
+_:appCompMath <track> _:acmOptSys .
+_:appCompMath <track> _:acmStatData .
+_:acmCompMath <name> "Computational Mathematics track" .
+_:acmFinMath <name> "Financial Mathematics track" .
+_:acmStatData <name> "Statistical Learning and Data Analytics track" .
+_:acmOptSys <name> "Optimization and Systems Theory track" .
+_:acmOptSys <course> _:SF2863 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2842 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2866 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2812 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2822 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2832 (kind="Vilkorligt valfri") .
+_:acmOptSys <course> _:SF2852 (kind="Vilkorligt valfri") .
+_:acmCompMath <course> _:SF2524 (kind="Obligatorisk") .
+_:acmCompMath <course> _:SF2568 (kind="Obligatorisk") .
+_:acmCompMath <course> _:SF2521 (kind="Obligatorisk") .
+_:acmCompMath <course> _:SF2561 (kind="Obligatorisk") .
+_:acmFinMath <course> _:SF2701 (kind="Obligatorisk") .
+_:acmFinMath <course> _:SF2930 (kind="Vilkorligt valfri") .
+_:acmFinMath <course> _:SF2942 (kind="Obligatorisk") .
+_:acmFinMath <course> _:SF2975 (kind="Vilkorligt valfri") .
+_:acmFinMath <course> _:SF2980 (kind="Vilkorligt valfri") .
+_:acmFinMath <course> _:SF2945 (kind="Vilkorligt valfri") .
+_:acmStatData <course> _:SF2930 (kind="Obligatorisk") .
+_:acmStatData <course> _:SF2935 (kind="Obligatorisk") .
+_:acmStatData <course> _:SF2955 (kind="Obligatorisk") .
+_:appCompMath <course> _:AK2036 (kind="Obligatorisk") .
+_:appCompMath <course> _:SF2520 (kind="Obligatorisk") .
+_:appCompMath <course> _:SF2940 (kind="Obligatorisk") .
+_:appCompMath <course> _:SF2863 (kind="Vilkorligt valfri") .
+_:appCompMath <course> _:SF2812 (kind="Vilkorligt valfri") .
+_:appCompMath <course> _:SF2832 (kind="Vilkorligt valfri") .
+_:appCompMath <course> _:BB2285 (kind="Valfri") .
+_:appCompMath <course> _:BB2300 (kind="Valfri") .
+_:appCompMath <course> _:BB2441 (kind="Valfri") .
+_:appCompMath <course> _:DD2257 (kind="Valfri") .
+_:appCompMath <course> _:DD2365 (kind="Valfri") .
+_:appCompMath <course> _:DD2431 (kind="Valfri") .
+_:appCompMath <course> _:DD2435 (kind="Valfri") .
+_:appCompMath <course> _:SF1861 (kind="Valfri") .
+_:appCompMath <course> _:SF2521 (kind="Valfri") .
+_:appCompMath <course> _:SF2522 (kind="Valfri") .
+_:appCompMath <course> _:SF2524 (kind="Valfri") .
+_:appCompMath <course> _:SF2565 (kind="Valfri") .
+_:appCompMath <course> _:SF2566 (kind="Valfri") .
+_:appCompMath <course> _:SF2567 (kind="Valfri") .
+_:appCompMath <course> _:SF2568 (kind="Valfri") .
+_:appCompMath <course> _:SF2701 (kind="Valfri") .
+_:appCompMath <course> _:SF2842 (kind="Valfri") .
+_:appCompMath <course> _:SF2866 (kind="Valfri") .
+_:appCompMath <course> _:SF2930 (kind="Valfri") .
+_:appCompMath <course> _:SF2935 (kind="Valfri") .
+_:appCompMath <course> _:SF2942 (kind="Valfri") .
+_:appCompMath <course> _:SF2955 (kind="Valfri") .
+_:appCompMath <course> _:SF2956 (kind="Valfri") .
+_:appCompMath <course> _:SF2957 (kind="Valfri") .
+_:appCompMath <course> _:SF2971 (kind="Valfri") .
+_:appCompMath <course> _:SF2975 (kind="Valfri") .
+_:appCompMath <course> _:SF2980 (kind="Valfri") .
+_:appCompMath <course> _:SG2212 (kind="Valfri") .
+_:appCompMath <course> _:SG2224 (kind="Valfri") .
+_:appCompMath <course> _:SI2710 (kind="Valfri") .
+_:appCompMath <course> _:DD2358 (kind="Valfri") .
+_:appCompMath <course> _:SF2561 (kind="Valfri") .
+_:appCompMath <course> _:SF2822 (kind="Valfri") .
+_:appCompMath <course> _:SF2852 (kind="Valfri") .
+_:appCompMath <course> _:SF2945 (kind="Valfri") .
+_:appCompMath <course> _:SF2972 (kind="Valfri") .
+_:arch <course> _:A42B13 .
+_:arch <course> _:A42O1A .
+_:arch <course> _:A42O2A .
+_:arch <course> _:A42SEH .
+_:arch <course> _:A42SEV .
+_:arch <course> _:A52EXA .
+_:arch <course> _:A52O1A .
+_:arch <course> _:A52O2A .
+_:arch <course> _:A52SEH .
+_:arch <course> _:A52SEV .
+_:arch <course> _:A42A13 .
+_:arch <course> _:A42C14 .
+_:arch <course> _:A42D14 .
+_:arch <course> _:A52A13 .
+_:arch <course> _:A52B13 .
+_:archLD <course> _:HS2007 .
+_:archLD <course> _:HS2008 .
+_:archLD <course> _:HS2009 .
+_:archLD <course> _:HS200X .
+_:archLD <course> _:6H4004 .
+_:civarch <course> _:AE2610 .
+_:civarch <course> _:AE2612 .
+_:civarch <course> _:AF2003 .
+_:civarch <course> _:AF2024 .
+_:civarch <course> _:AF2101 .
+_:civarch <course> _:AF2102 .
+_:civarch <course> _:AF2201 .
+_:civarch <course> _:AF2213 .
+_:civarch <course> _:AF2301 .
+_:civarch <course> _:AF2401 .
+_:civarch <course> _:AF2507 .
+_:civarch <course> _:AF2508 .
+_:civarch <course> _:AF2511 .
+_:civarch <course> _:AF2602 .
+_:civarch <course> _:AF2901 .
+_:civarch <course> _:AF2903 .
+_:civarch <course> _:AI2805 .
+_:civarch <course> _:AF2023 .
+_:civarch <course> _:AE2501 .
+_:civarch <course> _:AF2011 .
+_:civarch <course> _:AF213X .
+_:civarch <course> _:AF2203 .
+_:civarch <course> _:AF223X .
+_:civarch <course> _:AF233X .
+_:civarch <course> _:AF2402 .
+_:civarch <course> _:AF2403 .
+_:civarch <course> _:AF243X .
+_:civarch <course> _:AF253X .
+_:civarch <course> _:AF259X .
+_:civarch <course> _:AF2610 .
+_:civarch <course> _:AF2611 .
+_:civarch <course> _:AF263X .
+_:civarch <course> _:AF283X .
+_:civarch <course> _:AF293X .
+_:civarch <course> _:AG2800 .
+_:civarch <course> _:AG2806 .
+_:civarch <course> _:AH2905 .
+_:civarch <course> _:AF2025 .
+_:civarch <course> _:AF2512 .
+_:civarch <course> _:AF269U .
+_:compsci <track> _:csCogSys .
+_:compsci <track> _:csDataScience .
+_:compsci <track> _:csInterDesign .
+_:compsci <track> _:csSciComp .
+_:compsci <track> _:csSciComp .
+_:compsci <track> _:csSoftTech .
+_:compsci <track> _:csThcs .
+_:compsci <track> _:csVisInt .
+_:csCogSys <name> "Cognitive Systems Track" .
+_:csCogSys <track> _:csVisRob .
+_:csCogSys <track> _:csConvoSys .
+_:csCogSys <course> _:DD2410 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DD2418 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DD2423 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DD2424 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DD2437 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DT2112 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DT2119 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DT2140 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DT2150 (kind="Vilkorligt valfri") .
+_:csCogSys <course> _:DD2429 (kind="Rekomenderad") .
+_:csCogSys <course> _:DD2438 (kind="Rekomenderad") .
+_:csCogSys <course> _:DD2447 (kind="Rekomenderad") .
+_:csCogSys <course> _:DD2476 (kind="Rekomenderad") .
+_:csCogSys <course> _:DT1130 (kind="Rekomenderad") .
+_:csCogSys <course> _:DT2410 (kind="Rekomenderad") .
+_:csCogSys <course> _:EQ2341 (kind="Rekomenderad") .
+_:csCogSys <course> _:SF2940 (kind="Rekomenderad") .
+_:csCogSys <course> _:SF1861 (kind="Rekomenderad") .
+_:csCogSys <course> _:DD2434 (kind="Rekomenderad") .
+_:csCogSys <course> _:DT2350 (kind="Rekomenderad") .
+_:csCogSys <course> _:EL2320 (kind="Rekomenderad") .
+_:csVisRob <name> "Vision and Robotics Subtrack" .
+_:csVisRob <course> _:DD2410 (kind="Obligatorisk") .
+_:csVisRob <course> _:DD2423 (kind="Obligatorisk") .
+_:csVisRob <course> _:DD2424 (kind="Obligatorisk") .
+_:csConvoSys <name> "Conversational System Subtrack" .
+_:csConvoSys <course> _:DD2418 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DD2424 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DD2437 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DT2112 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DT2119 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DT2140 (kind="Vilkorligt valfri") .
+_:csConvoSys <course> _:DT2150 (kind="Obligatorisk") .
+_:csDataScience <name> "Data science Track" .
+_:csDataScience <track> _:csMachLearn .
+_:csDataScience <track> _:csNatLangPro .
+_:csDataScience <track> _:csBioinfo .
+_:csDataScience <course> _:DD2418 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DD2423 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2424 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DD2437 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DT2112 (kind="Rekomenderad") .
+_:csDataScience <course> _:DT2119 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2429 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2438 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2447 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2476 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:SF2940 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DD2404 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DD2420 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:DD2257 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2425 (kind="Rekomenderad") .
+_:csDataScience <course> _:DH2320 (kind="Rekomenderad") .
+_:csDataScience <course> _:DH2321 (kind="Rekomenderad") .
+_:csDataScience <course> _:SF1861 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2431 (kind="Rekomenderad") .
+_:csDataScience <course> _:DD2434 (kind="Vilkorligt valfri") .
+_:csDataScience <course> _:EL2320 (kind="Rekomenderad") .
+_:csMachLearn <name> "Machine Learning Subtrack" .
+_:csMachLearn <course> _:DD2420 (kind="Vilkorligt valfri") .
+_:csMachLearn <course> _:DD2434 (kind="Vilkorligt valfri") .
+_:csMachLearn <course> _:DD2424 (kind="Obligatorisk") .
+_:csMachLearn <course> _:DD2437 (kind="Vilkorligt valfri") .
+_:csNatLangPro <name> "Natural Language Processing Subtrack" .
+_:csNatLangPro <course> _:DD2418 (kind="Obligatorisk") .
+_:csNatLangPro <course> _:DD2476 (kind="Obligatorisk") .
+_:csBioinfo <name> "Bioinformatics Subtrack" .
+_:csBioinfo <course> _:SF2940 (kind="Obligatorisk") .
+_:csBioinfo <course> _:DD2404 (kind="Obligatorisk") .
+_:csInterDesign <name> "Interaction Design Track" .
+_:csInterDesign <course> _:DH2629 (kind="Obligatorisk") .
+_:csInterDesign <course> _:IC2005 (kind="Obligatorisk") .
+_:csInterDesign <course> _:DM2518 (kind="Rekomenderad") .
+_:csSciComp <name> "Scientific Computing Subtrack" .
+_:csSciComp <course> _:DD2444 (kind="Obligatorisk") .
+_:csSciComp <course> _:DD2437 (kind="Vilkorligt valfri") .
+_:csSciComp <course> _:DD2257 (kind="Vilkorligt valfri") .
+_:csSciComp <course> _:DD2356 (kind="Vilkorligt valfri") .
+_:csSciComp <course> _:DD2363 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2365 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2401 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2402 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2435 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2443 (kind="Rekomenderad") .
+_:csSciComp <course> _:DT2212 (kind="Rekomenderad") .
+_:csSciComp <course> _:EL2820 (kind="Rekomenderad") .
+_:csSciComp <course> _:HL2008 (kind="Rekomenderad") .
+_:csSciComp <course> _:SF2565 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2360 (kind="Rekomenderad") .
+_:csSciComp <course> _:SI2710 (kind="Rekomenderad") .
+_:csSciComp <course> _:DD2431 (kind="Rekomenderad") .
+_:csSciComp <course> _:SF2561 (kind="Rekomenderad") .
+_:csSoftTech <name> "Software Technology Subtrack" .
+_:csSoftTech <course> _:DD2480 (kind="Obligatorisk") .
+_:csSoftTech <course> _:DD2443 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2448 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2457 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2459 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2460 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2481 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2487 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2488 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2496 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD2497 (kind="Vilkorligt valfri") .
+_:csSoftTech <course> _:DD1389 (kind="Rekomenderad") .
+_:csSoftTech <course> _:DD2431 (kind="Rekomenderad") .
+_:csSoftTech <course> _:DD2458 (kind="Rekomenderad") .
+_:csSoftTech <course> _:DD2476 (kind="Rekomenderad") .
+_:csSoftTech <course> _:EP2500 (kind="Rekomenderad") .
+_:csSoftTech <course> _:EP2510 (kind="Rekomenderad") .
+_:csSoftTech <course> _:EP2520 (kind="Rekomenderad") .
+_:csSoftTech <course> _:ID1217 (kind="Rekomenderad") .
+_:csSoftTech <track> _:csCompSec .
+_:csSoftTech <track> _:csProgLang .
+_:csSoftTech <track> _:csSoftEng .
+_:csCompSec <name> "Computer Security Subtrack" .
+_:csCompSec <course> _:DD2448 (kind="Obligatorisk") .
+_:csCompSec <course> _:DD2460 (kind="Vilkorligt valfri") .
+_:csCompSec <course> _:DD2496 (kind="Vilkorligt valfri") .
+_:csCompSec <course> _:DD2497 (kind="Obligatorisk") .
+_:csProgLang <name> "Programming Languages Subtrack" .
+_:csProgLang <course> _:DD2457 (kind="Vilkorligt valfri") .
+_:csProgLang <course> _:DD2481 (kind="Obligatorisk") .
+_:csProgLang <course> _:DD2488 (kind="Obligatorisk") .
+_:csProgLang <course> _:DD2372 (kind="Vilkorligt valfri") .
+_:csSoftEng <name> "Software Engineering Subtrack" .
+_:csSoftEng <course> _:DD2481 (kind="Vilkorligt valfri") .
+_:csSoftEng <course> _:DD2443 (kind="Vilkorligt valfri") .
+_:csSoftEng <course> _:DD2459 (kind="Vilkorligt valfri") .
+_:csSoftEng <course> _:DD2460 (kind="Vilkorligt valfri") .
+_:csSoftEng <course> _:DD2487 (kind="Obligatorisk") .
+_:csThcs <name> "Theoretical Computer Science Track" .
+_:csThcs <track> _:csAlgCompCryp .
+_:csThcs <track> _:csFormSem .
+_:csThcs <course> _:DD2467 (kind="Obligatorisk") .
+_:csThcs <course> _:DD2452 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2442 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2443 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2448 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2457 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2459 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:DD2460 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:SF2723 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:SF2940 (kind="Vilkorligt Valfri") .
+_:csThcs <course> _:SF2713 (kind="Rekomenderad") .
+_:csThcs <course> _:SF2741 (kind="Rekomenderad") .
+_:csThcs <course> _:SF2955 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2423 (kind="Rekomenderad") .
+_:csThcs <course> _:DT2112 (kind="Rekomenderad") .
+_:csThcs <course> _:DT2119 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2429 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2438 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2447 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2257 (kind="Rekomenderad") .
+_:csThcs <course> _:DD2425 (kind="Rekomenderad") .
+_:csThcs <course> _:DH2320 (kind="Rekomenderad") .
+_:csThcs <course> _:DH2321 (kind="Rekomenderad") .
+_:csThcs <course> _:SF1861 (kind="Rekomenderad") .
+_:csThcs <course> _:EL2320 (kind="Rekomenderad") .
+_:csAlgCompCryp <name> "Algorithms, Complexity and Cryptography Subtrack" .
+_:csAlgCompCryp <course> _:DD2448 (kind="Obligatorisk") .
+_:csAlgCompCryp <course> _:DD2445 (kind="Vilkorligt valfri") .
+_:csAlgCompCryp <course> _:DD2442 (kind="Vilkorligt valfri") .
+_:csFormSem <name> "Formal Methods and Semantics Subtrack" .
+_:csFormSem <course> _:DD2452 (kind="Obligatorisk") .
+_:csFormSem <course> _:DD2372 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2442 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2443 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2445 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2448 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2457 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2459 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:DD2460 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2700 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2741 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2723 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2724 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2730 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2940 (kind="Vilkorligt valfri") .
+_:csFormSem <course> _:SF2972 (kind="Vilkorligt valfri") .
+_:csVisInt <name> "Visualization and Interactive Graphics Track" .
+_:csVisInt <course> _:DH2320 (kind="Obligatorisk") .
+_:csVisInt <course> _:DD2470 (kind="Obligatorisk") .
+_:csVisInt <course> _:DD2257 (kind="Vilkorligt Valfri") .
+_:csVisInt <course> _:DH2321 (kind="Vilkorligt Valfri") .
+_:csVisInt <course> _:DH2323 (kind="Vilkorligt Valfri") .
+_:csVisInt <course> _:DH2413 (kind="Vilkorligt Valfri") .
+_:csVisInt <course> _:DH2650 (kind="Vilkorligt Valfri") .
+_:csVisInt <course> _:DD2356 (kind="Rekomenderad") .
+_:csVisInt <course> _:DD2423 (kind="Rekomenderad") .
+_:csVisInt <course> _:DD2424 (kind="Rekomenderad") .
+_:csVisInt <course> _:DD2429 (kind="Rekomenderad") .
+_:csVisInt <course> _:DT2350 (kind="Rekomenderad") .
+_:comsys <course> _:II2202 .
+_:comsys <course> _:IK2206 .
+_:comsys <course> _:IK2215 .
+_:comsys <course> _:IK2560 .
+_:comsys <course> _:IK2217 .
+_:comsys <course> _:ID2010 .
+_:comsys <course> _:ID2210 .
+_:comsys <course> _:ID2216 .
+_:comsys <course> _:ID2218 .
+_:comsys <course> _:IK1611 .
+_:comsys <course> _:IK2507 .
+_:comsys <course> _:IK2508 .
+_:comsys <course> _:IL1333 .
+_:comsys <course> _:IO2654 .
+_:comsys <course> _:ME2062 .
+_:comsys <course> _:IK2200 .
+_:comsys <course> _:EP2500 .
+_:comsys <course> _:EP2510 .
+_:comsys <course> _:II2300 .
+_:comsys <course> _:II2302 .
+_:comsys <course> _:IK2510 .
+_:comsys <course> _:IK2511 .
+_:comsys <course> _:IK2514 .
+_:comsys <course> _:IK2554 .
+_:comsys <course> _:IS2500 .
+_:comsys <course> _:HI2000 .
+_:comsys <course> _:EP2520 .
+_:comsys <course> _:IK3619 .
+_:electricPower <course> _:AK2030 .
+_:electricPower <course> _:EH2220 .
+_:electricPower <course> _:EG2100 .
+_:electricPower <course> _:EG2210 .
+_:electricPower <course> _:EG2220 .
+_:electricPower <course> _:EH2741 .
+_:electricPower <course> _:EH2745 .
+_:electricPower <course> _:EI2430 .
+_:electricPower <course> _:EI2433 .
+_:electricPower <course> _:EI2436 .
+_:electricPower <course> _:EI2440 .
+_:electricPower <course> _:EI2452 .
+_:electricPower <course> _:EI2455 .
+_:electricPower <course> _:EJ2201 .
+_:electricPower <course> _:EJ2230 .
+_:electricPower <course> _:EJ2301 .
+_:electricPower <course> _:EJ2311 .
+_:electricPower <course> _:EJ2440 .
+_:electricPower <course> _:EL2450 .
+_:electricPower <course> _:EL2520 .
+_:electricPower <course> _:EL2700 .
+_:electricPower <course> _:EL2820 .
+_:electricPower <course> _:EG2340 .
+_:electricPower <course> _:EG2420 .
+_:electricPower <course> _:EI2402 .
+_:electricPower <course> _:EI2405 .
+_:electricPower <course> _:EI2439 .
+_:electricPower <course> _:EI2490 .
+_:electricPower <course> _:EI2520 .
+_:electricPower <course> _:EJ2222 .
+_:electricPower <course> _:EL2620 .
+_:electricPower <course> _:EG3214 .
+_:electricPower <course> _:EG3213 .
+_:electricPower <course> _:EG2205 .
+_:electricPower <course> _:EH2760 .
+_:electricPower <course> _:EJ3420 .
+_:electroFusionSpace <course> _:AK2036 .
+_:electroFusionSpace <course> _:EF2200 .
+_:electroFusionSpace <course> _:EF2222 .
+_:electroFusionSpace <course> _:EI2405 .
+_:electroFusionSpace <course> _:EI2433 .
+_:electroFusionSpace <course> _:AG1321 .
+_:electroFusionSpace <course> _:AH2923 .
+_:electroFusionSpace <course> _:ED2200 .
+_:electroFusionSpace <course> _:ED2210 .
+_:electroFusionSpace <course> _:EF2215 .
+_:electroFusionSpace <course> _:EF2240 .
+_:electroFusionSpace <course> _:EF2245 .
+_:electroFusionSpace <course> _:EF2270 .
+_:electroFusionSpace <course> _:EI2400 .
+_:electroFusionSpace <course> _:EI2402 .
+_:electroFusionSpace <course> _:EI2410 .
+_:electroFusionSpace <course> _:EI2420 .
+_:electroFusionSpace <course> _:EI2440 .
+_:electroFusionSpace <course> _:EI2510 .
+_:electroFusionSpace <course> _:EK2350 .
+_:electroFusionSpace <course> _:EK2360 .
+_:electroFusionSpace <course> _:SD2920 .
+_:electroFusionSpace <course> _:SD2925 .
+_:electroFusionSpace <course> _:SH2008 .
+_:electroFusionSpace <course> _:SH2402 .
+_:electroFusionSpace <course> _:SK2320 .
+_:electroFusionSpace <course> _:SK2340 .
+_:electroFusionSpace <course> _:SK2350 .
+_:electroFusionSpace <course> _:SK2400 .
+_:electroFusionSpace <course> _:SK2411 .
+_:electroFusionSpace <course> _:SK2766 .
+_:electroFusionSpace <course> _:SK2814 .
+_:electroFusionSpace <course> _:ED2235 .
+_:electroFusionSpace <course> _:EF2260 .
+_:electroFusionSpace <course> _:SK2300 .
+_:electroFusionSpace <course> _:SK2301 .
+_:electroFusionSpace <course> _:SH2771 .
+_:electroFusionSpace <course> _:IO3656 .
+_:electroFusionSpace <course> _:IO3655 .
+_:embedded <course> _:II2302 .
+_:embedded <course> _:IL2206 .
+_:embedded <course> _:IL2217 .
+_:embedded <course> _:IL2225 .
+_:embedded <course> _:IL2237 .
+_:embedded <course> _:IL2238 .
+_:embedded <course> _:DD2459 .
+_:embedded <course> _:EK2350 .
+_:embedded <course> _:ID2218 .
+_:embedded <course> _:IL2219 .
+_:embedded <course> _:IL2236 .
+_:embedded <course> _:IL2239 .
+_:embedded <course> _:IL2450 .
+_:embedded <course> _:IS2202 .
+_:embedded <course> _:EQ1220 .
+_:embedded <course> _:EH2760 .
+_:embedded <course> _:II2202 .
+_:embedded <course> _:MF2063 .
+_:embedded <course> _:DD2425 .
+_:embedded <course> _:EK2360 .
+_:embedded <course> _:EP2510 .
+_:embedded <course> _:II2300 .
+_:embedded <course> _:IL2452 .
+_:embedded <course> _:IS2500 .
+_:embedded <course> _:ID2202 .
+_:embedded <course> _:ID2207 .
+_:embedded <course> _:DT2140 .
+_:embedded <course> _:EL2450 .
+_:embedded <course> _:EP2500 .
+_:embedded <course> _:EQ2341 .
+_:embedded <course> _:ID1217 .
+_:embedded <course> _:ID2010 .
+_:embedded <course> _:ID2201 .
+_:embedded <course> _:ID2203 .
+_:embedded <course> _:ID2204 .
+_:embedded <course> _:ID2216 .
+_:embedded <course> _:EQ2415 .
+_:embedded <course> _:ID2213 .
+_:embedded <course> _:EQ2300 .
+_:embedded <course> _:EQ2330 .
+_:embedded <course> _:DD2423 .
+_:embedded <course> _:DD2437 .
+_:embedded <course> _:EL2620 .
+_:embedded <course> _:MF2030 .
+_:embedded <course> _:EL2520 .
+_:embedded <course> _:EL2820 .
+_:embedded <course> _:MF2007 .
+_:embedded <course> _:MF2043 .
+_:embedded <course> _:IL1331 .
+_:embedded <course> _:EQ2321 .
+_:embedded <course> _:DD2431 .
+_:embedded <course> _:EL1010 .
+_:embedded <course> _:EL2320 .
+_:embedded <course> _:HI1005 .
+_:embedded <course> _:IL3008 .
+_:energyEnviro <course> _:AK2036 .
+_:energyEnviro <course> _:AL2181 .
+_:energyEnviro <course> _:KE2010 .
+_:energyEnviro <course> _:KE2070 .
+_:energyEnviro <course> _:KE2185 .
+_:energyEnviro <course> _:AL2140 .
+_:energyEnviro <course> _:AL2160 .
+_:energyEnviro <course> _:KE2060 .
+_:energyEnviro <course> _:KE2130 .
+_:energyEnviro <course> _:KE2300 .
+_:energyEnviro <course> _:KE2310 .
+_:energyEnviro <course> _:KE2351 .
+_:energyEnviro <course> _:KE2355 .
+_:energyEnviro <course> _:ME2814 .
+_:energyEnviro <course> _:KE2325 .
+_:energyEnviro <course> _:KD2380 .
+_:energyEnviro <course> _:KE2195 .
+_:energyEnviro <course> _:KE2331 .
+_:energyEnviro <course> _:KF2470 .
+_:energyEnviro <course> _:KE2040 .
+_:energyEnviro <course> _:KE2050 .
+_:energyEnviro <course> _:KE3140 .
+_:energyEnviro <course> _:KE2170 .
+_:engDesign <course> _:AK2036 .
+_:engDesign <course> _:MF2030 .
+_:engDesign <course> _:MF2047 .
+_:engDesign <course> _:SD2125 .
+_:engDesign <course> _:EJ2410 .
+_:engDesign <course> _:ME2063 .
+_:engDesign <course> _:MF2007 .
+_:engDesign <course> _:MF2010 .
+_:engDesign <course> _:MF2018 .
+_:engDesign <course> _:MF2019 .
+_:engDesign <course> _:MF2043 .
+_:engDesign <course> _:MF2103 .
+_:engDesign <course> _:MJ2429 .
+_:engDesign <course> _:MJ2430 .
+_:engDesign <course> _:SD2222 .
+_:engDesign <course> _:SD2225 .
+_:engDesign <course> _:SG2212 .
+_:engDesign <course> _:SG2215 .
+_:engDesign <course> _:SG2219 .
+_:engDesign <course> _:SG2224 .
+_:engDesign <course> _:EL1010 .
+_:engDesign <course> _:EL2820 .
+_:engDesign <course> _:MF1025 .
+_:engDesign <course> _:MF1026 .
+_:engDesign <course> _:MJ1401 .
+_:engDesign <course> _:SG1217 .
+_:engDesign <course> _:MF2066 .
+_:engDesign <course> _:MF2011 .
+_:engDesign <course> _:MF2024 .
+_:engDesign <course> _:MF2054 .
+_:engDesign <course> _:MF2076 .
+_:engDesign <course> _:MF2101 .
+_:engDesign <course> _:MF2072 .
+_:engDesign <course> _:MF2077 .
+_:engDesign <course> _:MF2058 .
+_:engDesign <course> _:MF2095 .
+_:engDesign <course> _:MF2059 .
+_:engDesign <course> _:MF2071 .
+_:engDesign <course> _:KE2050 .
+_:engDesign <course> _:MF3016 .
+_:engDesign <course> _:MF213X .
+_:engDesign <course> _:MF214X .
+_:engDesign <course> _:MF215X .
+_:engDesign <course> _:SG1218 .
+_:engDesign <course> _:SG3112 .
+_:engMaterials <course> _:AK2036 .
+_:engMaterials <course> _:MH2039 .
+_:engMaterials <course> _:MH2040 .
+_:engMaterials <course> _:MH2041 .
+_:engMaterials <course> _:MH2042 .
+_:engMaterials <course> _:ME2063 .
+_:engMaterials <course> _:MH2000 .
+_:engMaterials <course> _:MH2048 .
+_:engMaterials <course> _:MH2049 .
+_:engMaterials <course> _:MH2100 .
+_:engMaterials <course> _:MH2601 .
+_:engMaterials <course> _:KD2380 .
+_:engMaterials <course> _:ME2016 .
+_:engMaterials <course> _:MF2046 .
+_:engMaterials <course> _:MH2045 .
+_:engMaterials <course> _:MH2280 .
+_:engMaterials <course> _:MH2281 .
+_:engMaterials <course> _:MH2450 .
+_:engMaterials <course> _:MH2501 .
+_:engMaterials <course> _:MH2504 .
+_:engMaterials <course> _:MH2029 .
+_:engMaterials <course> _:MH2038 .
+_:engMaterials <course> _:MH2300 .
+_:engMaterials <course> _:MH2046 .
+_:engMaterials <course> _:MF2032 .
+_:engMaterials <course> _:ME2719 .
+_:engMaterials <course> _:MF2022 .
+_:engMaterials <course> _:KF2110 .
+_:engMaterials <course> _:4M5302 .
+_:engMech <course> _:SG3226 .
+_:engMech <course> _:SG3128 .
+_:engMech <course> _:SG3122 .
+_:engMech <course> _:SG2870 .
+_:engMech <course> _:SG2860 .
+_:engMech <course> _:SG2804 .
+_:engMech <course> _:SG2225 .
+_:engMech <course> _:SG2224 .
+_:engMech <course> _:SG2222 .
+_:engMech <course> _:SG2219 .
+_:engMech <course> _:SG2215 .
+_:engMech <course> _:SG2212 .
+_:engMech <course> _:SG2150 .
+_:engMech <course> _:SG2128 .
+_:engMech <course> _:SG2010 .
+_:engMech <course> _:SG1220 .
+_:engMech <course> _:SG1218 .
+_:engMech <course> _:SE3161 .
+_:engMech <course> _:SE3046 .
+_:engMech <course> _:SE2139 .
+_:engMech <course> _:SE2137 .
+_:engMech <course> _:SE2135 .
+_:engMech <course> _:SE2134 .
+_:engMech <course> _:SE2132 .
+_:engMech <course> _:SE2126 .
+_:engMech <course> _:SE2121 .
+_:engMech <course> _:SE1025 .
+_:engMech <course> _:SD2191 .
+_:engMech <course> _:SD2180 .
+_:engMech <course> _:SD2175 .
+_:engMech <course> _:SD2170 .
+_:engMech <course> _:SD2166 .
+_:engMech <course> _:SD2165 .
+_:engMech <course> _:SD2155 .
+_:engMech <course> _:SD2150 .
+_:engMech <course> _:SD2145 .
+_:engMech <course> _:SD2125 .
+_:engMech <course> _:SD2111 .
+_:engMech <course> _:SD2110 .
+_:engMech <course> _:SD1120 .
+_:engMech <course> _:SD1116 .
+_:engMech <course> _:AK2030 .
+_:entManage <course> _:ME1003 .
+_:entManage <course> _:ME2016 .
+_:entManage <course> _:ME205X .
+_:entManage <course> _:ME2092 .
+_:entManage <course> _:ME2093 .
+_:entManage <course> _:ME2098 .
+_:entManage <course> _:ME2814 .
+_:entManage <course> _:ME2815 .
+_:envSust <course> _:AE2104 .
+_:envSust <course> _:AE2201 .
+_:envSust <course> _:AE2304 .
+_:envSust <course> _:AE2501 .
+_:envSust <course> _:AE2503 .
+_:envSust <course> _:AE2507 .
+_:envSust <course> _:AE2610 .
+_:envSust <course> _:AE2612 .
+_:envSust <course> _:AE2707 .
+_:envSust <course> _:AE2801 .
+_:envSust <course> _:AG2141 .
+_:envSust <course> _:AG2142 .
+_:envSust <course> _:AG2143 .
+_:envSust <course> _:AG2803 .
+_:envSust <course> _:AL2300 .
+_:envSust <course> _:MJ2673 .
+_:envSust <course> _:AE2107 .
+_:envSust <course> _:AE2302 .
+_:envSust <course> _:AE2401 .
+_:envSust <course> _:AE2708 .
+_:envSust <course> _:AF283X .
+_:envSust <course> _:AG212X .
+_:envSust <course> _:AG2800 .
+_:envSust <course> _:AG2811 .
+_:envSust <course> _:AL2301 .
+_:envSust <course> _:AL230X .
+_:envSust <course> _:AL250X .
+_:envSust <course> _:AF269U .
+_:ictInno <course> _:AK2036 .
+_:ictInno <course> _:DD2257 .
+_:ictInno <course> _:DD2380 .
+_:ictInno <course> _:DD2410 .
+_:ictInno <course> _:DD2418 .
+_:ictInno <course> _:DD2423 .
+_:ictInno <course> _:DD2424 .
+_:ictInno <course> _:DD2431 .
+_:ictInno <course> _:DD2437 .
+_:ictInno <course> _:DD2447 .
+_:ictInno <course> _:DD2476 .
+_:ictInno <course> _:DD2434 .
+_:ictInno <course> _:DH2400 .
+_:ictInno <course> _:DH2408 .
+_:ictInno <course> _:DH2632 .
+_:ictInno <course> _:DH2642 .
+_:ictInno <course> _:DH2670 .
+_:ictInno <course> _:DT2140 .
+_:ictInno <course> _:EL1010 .
+_:ictInno <course> _:EL2450 .
+_:ictInno <course> _:EL2520 .
+_:ictInno <course> _:EL2820 .
+_:ictInno <course> _:EL2320 .
+_:ictInno <course> _:EP2200 .
+_:ictInno <course> _:EP2210 .
+_:ictInno <course> _:EP2500 .
+_:ictInno <course> _:EP2510 .
+_:ictInno <course> _:EP2520 .
+_:ictInno <course> _:EQ2321 .
+_:ictInno <course> _:EQ2341 .
+_:ictInno <course> _:EQ2425 .
+_:ictInno <course> _:EQ2461 .
+_:ictInno <course> _:EQ2871 .
+_:ictInno <course> _:HI2000 .
+_:ictInno <course> _:HI2001 .
+_:ictInno <course> _:IC1007 .
+_:ictInno <course> _:IC2005 .
+_:ictInno <course> _:ID1212 .
+_:ictInno <course> _:ID2012 .
+_:ictInno <course> _:ID2202 .
+_:ictInno <course> _:ID2203 .
+_:ictInno <course> _:ID2209 .
+_:ictInno <course> _:ID2210 .
+_:ictInno <course> _:ID2211 .
+_:ictInno <course> _:ID2214 .
+_:ictInno <course> _:ID2216 .
+_:ictInno <course> _:ID2221 .
+_:ictInno <course> _:ID2222 .
+_:ictInno <course> _:ID2223 .
+_:ictInno <course> _:II2202 .
+_:ictInno <course> _:II2300 .
+_:ictInno <course> _:II2302 .
+_:ictInno <course> _:IK2200 .
+_:ictInno <course> _:IK2206 .
+_:ictInno <course> _:IK2215 .
+_:ictInno <course> _:IK2217 .
+_:ictInno <course> _:IK2560 .
+_:ictInno <course> _:IK3616 .
+_:ictInno <course> _:IK3619 .
+_:ictInno <course> _:IL2206 .
+_:ictInno <course> _:IL2217 .
+_:ictInno <course> _:IL2225 .
+_:ictInno <course> _:IL2236 .
+_:ictInno <course> _:IL2452 .
+_:ictInno <course> _:IL3008 .
+_:ictInno <course> _:IS2202 .
+_:ictInno <course> _:IS2500 .
+_:ictInno <course> _:ME1033 .
+_:ictInno <course> _:ME2062 .
+_:ictInno <course> _:ME2072 .
+_:ictInno <course> _:ME2073 .
+_:ictInno <course> _:ME2078 .
+_:ictInno <course> _:ME2094 .
+_:ictInno <course> _:ME2095 .
+_:ictInno <course> _:ME2096 .
+_:indManage <course> _:ME2016 .
+_:indManage <course> _:ME2063 .
+_:indManage <course> _:ME2064 .
+_:indManage <course> _:ME2065 .
+_:indManage <course> _:ME2066 .
+_:indManage <course> _:ME2067 .
+_:indManage <course> _:ME2501 .
+_:indManage <course> _:ME2069 .
+_:indManage <course> _:ME210X .
+_:indManage <course> _:ME2502 .
+_:indManage <course> _:ME2002 .
+_:industrialBio <course> _:AK2036 .
+_:industrialBio <course> _:BB1030 .
+_:industrialBio <course> _:BB1300 .
+_:industrialBio <course> _:BB2020 .
+_:industrialBio <course> _:BB2450 .
+_:industrialBio <course> _:BB2460 .
+_:industrialBio <course> _:ME1003 .
+_:industrialBio <course> _:AK2008 .
+_:industrialBio <course> _:AL2140 .
+_:industrialBio <course> _:BB1000 .
+_:industrialBio <course> _:BB2010 .
+_:industrialBio <course> _:BB2160 .
+_:industrialBio <course> _:BB2170 .
+_:industrialBio <course> _:BB2330 .
+_:industrialBio <course> _:BB2420 .
+_:industrialBio <course> _:KD2310 .
+_:industrialBio <course> _:ME2824 .
+_:industrialBio <course> _:MJ2659 .
+_:industrialBio <course> _:BB2520 .
+_:industrialBio <course> _:AL2181 .
+_:industrialBio <course> _:BB2445 .
+_:industrialBio <course> _:KD2320 .
+_:industrialBio <course> _:KE2325 .
+_:industrialBio <course> _:BB201X .
+_:industrialBio <course> _:BB2472 .
+_:industrialBio <course> _:SI2710 .
+_:industrialBio <course> _:MJ2413 .
+_:industrialBio <course> _:BB2485 .
+_:infoNet <course> _:AG3103 .
+_:infoNet <course> _:AK1213 .
+_:infoNet <course> _:AK2036 .
+_:infoNet <course> _:DD2423 .
+_:infoNet <course> _:DD2434 .
+_:infoNet <course> _:EH2760 .
+_:infoNet <course> _:EH2770 .
+_:infoNet <course> _:EH2781 .
+_:infoNet <course> _:EI2400 .
+_:infoNet <course> _:EN2720 .
+_:infoNet <course> _:EO3250 .
+_:infoNet <course> _:EP2200 .
+_:infoNet <course> _:EP2210 .
+_:infoNet <course> _:EP2500 .
+_:infoNet <course> _:EP2510 .
+_:infoNet <course> _:EP2700 .
+_:infoNet <course> _:EP2520 .
+_:infoNet <course> _:EQ1220 .
+_:infoNet <course> _:EQ2223 .
+_:infoNet <course> _:EQ2300 .
+_:infoNet <course> _:EQ2321 .
+_:infoNet <course> _:EQ2330 .
+_:infoNet <course> _:EQ2341 .
+_:infoNet <course> _:EQ2401 .
+_:infoNet <course> _:EQ2411 .
+_:infoNet <course> _:EQ2415 .
+_:infoNet <course> _:EQ2425 .
+_:infoNet <course> _:EQ2443 .
+_:infoNet <course> _:EQ2444 .
+_:infoNet <course> _:EQ2445 .
+_:infoNet <course> _:EQ2461 .
+_:infoNet <course> _:EQ2800 .
+_:infoNet <course> _:EQ2810 .
+_:infoNet <course> _:EQ2831 .
+_:infoNet <course> _:EQ2840 .
+_:infoNet <course> _:EQ2850 .
+_:infoNet <course> _:EQ2871 .
+_:infoNet <course> _:HI1005 .
+_:infoNet <course> _:HI2000 .
+_:infoNet <course> _:HI2001 .
+_:infoNet <course> _:ID1018 .
+_:infoNet <course> _:ID1212 .
+_:infoNet <course> _:IK1550 .
+_:infoNet <course> _:IK2217 .
+_:infoNet <course> _:IK2510 .
+_:infoNet <course> _:IK2511 .
+_:infoNet <course> _:IK2514 .
+_:infoNet <course> _:IK3619 .
+_:infoNet <course> _:LS1419 .
+_:infoNet <course> _:LS1465 .
+_:infoNet <course> _:LS1502 .
+_:infoNet <course> _:LS2429 .
+_:infoNet <course> _:LS2439 .
+_:infoNet <course> _:ME1003 .
+_:infoNet <course> _:ME2089 .
+_:infoNet <course> _:SF2935 .
+_:infoNet <course> _:SF2822 .
+_:interMediaTech <course> _:DH2632 .
+_:interMediaTech <course> _:DM2601 .
+_:interMediaTech <course> _:DM2679 .
+_:interMediaTech <course> _:DT2140 .
+_:interMediaTech <course> _:DM2573 .
+_:interMediaTech <course> _:DH2400 .
+_:interMediaTech <course> _:DH2670 .
+_:interMediaTech <course> _:DD2258 .
+_:interMediaTech <course> _:DD2410 .
+_:interMediaTech <course> _:DT2300 .
+_:interMediaTech <course> _:IL2206 .
+_:interMediaTech <course> _:MF2092 .
+_:interMediaTech <course> _:DH2408 .
+_:interMediaTech <course> _:DH2466 .
+_:interMediaTech <course> _:DH2629 .
+_:interMediaTech <course> _:DH2642 .
+_:interMediaTech <course> _:DH2650 .
+_:interMediaTech <course> _:DM2500 .
+_:interMediaTech <course> _:DM2518 .
+_:interMediaTech <course> _:DM2562 .
+_:interMediaTech <course> _:DM2563 .
+_:interMediaTech <course> _:DM2623 .
+_:interMediaTech <course> _:DM2720 .
+_:interMediaTech <course> _:DM2904 .
+_:interMediaTech <course> _:DT2112 .
+_:interMediaTech <course> _:DT2119 .
+_:interMediaTech <course> _:DT2213 .
+_:interMediaTech <course> _:DH2321 .
+_:interMediaTech <course> _:DT2212 .
+_:interMediaTech <course> _:DT2215 .
+_:interMediaTech <course> _:DT2217 .
+_:interMediaTech <course> _:DM2582 .
+_:interMediaTech <course> _:DT2410 .
+_:interMediaTech <course> _:DD2257 .
+_:interMediaTech <course> _:DD2470 .
+_:interMediaTech <course> _:DH2323 .
+_:interMediaTech <course> _:DH2413 .
+_:interMediaTech <course> _:EQ2330 .
+_:interMediaTech <course> _:DA232X .
+_:interMediaTech <course> _:DM2712 .
+_:interMediaTech <course> _:DM2799 .
+_:interMediaTech <course> _:MF2031 .
+_:interMediaTech <course> _:IC2005 .
+_:interMediaTech <course> _:DM2076 .
+_:interMediaTech <course> _:DT2350 .
+_:machLearn <course> _:AI275U .
+_:machLearn <course> _:DA233X .
+_:machLearn <course> _:DD2257 .
+_:machLearn <course> _:DD2301 .
+_:machLearn <course> _:DD2352 .
+_:machLearn <course> _:DD2380 .
+_:machLearn <course> _:DD2387 .
+_:machLearn <course> _:DD2395 .
+_:machLearn <course> _:DD2401 .
+_:machLearn <course> _:DD2402 .
+_:machLearn <course> _:DD2404 .
+_:machLearn <course> _:DD2410 .
+_:machLearn <course> _:DD2411 .
+_:machLearn <course> _:DD2418 .
+_:machLearn <course> _:DD2420 .
+_:machLearn <course> _:DD2423 .
+_:machLearn <course> _:DD2424 .
+_:machLearn <course> _:DD2425 .
+_:machLearn <course> _:DD2429 .
+_:machLearn <course> _:DD2431 .
+_:machLearn <course> _:DD2435 .
+_:machLearn <course> _:DD2437 .
+_:machLearn <course> _:DD2438 .
+_:machLearn <course> _:DD2447 .
+_:machLearn <course> _:DD2448 .
+_:machLearn <course> _:DD2476 .
+_:machLearn <course> _:DD2434 .
+_:machLearn <course> _:DH2642 .
+_:machLearn <course> _:DT2112 .
+_:machLearn <course> _:DT2119 .
+_:machLearn <course> _:EL2805 .
+_:machLearn <course> _:EL2320 .
+_:machLearn <course> _:EQ2340 .
+_:machLearn <course> _:EQ2341 .
+_:machLearn <course> _:ID2213 .
+_:machLearn <course> _:ID2221 .
+_:machLearn <course> _:ID2222 .
+_:machLearn <course> _:ID2223 .
+_:machLearn <course> _:SF1861 .
+_:machLearn <course> _:SF2568 .
+_:machLearn <course> _:SF288X .
+_:machLearn <course> _:SF2930 .
+_:machLearn <course> _:SF2940 .
+_:machLearn <course> _:SF2945 .
+_:machLearn <course> _:SF299X .
+_:macromolecular <course> _:AK2036 .
+_:macromolecular <course> _:KD1230 .
+_:macromolecular <course> _:KF2110 .
+_:macromolecular <course> _:KD2155 .
+_:macromolecular <course> _:KF2140 .
+_:macromolecular <course> _:KF2450 .
+_:macromolecular <course> _:KF2460 .
+_:macromolecular <course> _:BB2020 .
+_:macromolecular <course> _:BB2460 .
+_:macromolecular <course> _:KD2310 .
+_:macromolecular <course> _:KD2320 .
+_:macromolecular <course> _:KD2350 .
+_:macromolecular <course> _:KE2310 .
+_:macromolecular <course> _:KF2180 .
+_:macromolecular <course> _:KF2190 .
+_:macromolecular <course> _:KF2480 .
+_:macromolecular <course> _:KF2495 .
+_:macromolecular <course> _:ME2814 .
+_:macromolecular <course> _:KD2300 .
+_:macromolecular <course> _:KD2380 .
+_:macromolecular <course> _:KE2351 .
+_:macromolecular <course> _:KF2150 .
+_:macromolecular <course> _:KF2470 .
+_:macromolecular <course> _:KF2505 .
+_:macromolecular <course> _:KF200X .
+_:macromolecular <course> _:BB2485 .
+_:macromolecular <course> _:KD3300 .
+_:macromolecular <course> _:KF2210 .
+_:math <course> _:SF2743 .
+_:math <course> _:SF2741 .
+_:math <course> _:SF2728 .
+_:math <course> _:SF2705 .
+_:math <course> _:SF2720 .
+_:math <course> _:MT1011 .
+_:math <course> _:SF3674 .
+_:math <course> _:SF3700 .
+_:mediaManage <course> _:DM2556 .
+_:mediaManage <course> _:DM2562 .
+_:mediaManage <course> _:DM2563 .
+_:mediaManage <course> _:DM2572 .
+_:mediaManage <course> _:ME1039 .
+_:mediaManage <course> _:AK2014 .
+_:mediaManage <course> _:DM2500 .
+_:mediaManage <course> _:ME2816 .
+_:mediaManage <course> _:ME2826 .
+_:mediaManage <course> _:DA234X .
+_:mediaManage <course> _:DM2575 .
+_:mediaManage <course> _:DM2584 .
+_:mediaManage <course> _:DM2573 .
+_:mediaManage <course> _:DM2578 .
+_:mediaManage <course> _:DM2582 .
+_:mediaManage <course> _:ME2016 .
+_:mediaManage <course> _:ME2062 .
+_:mediaManage <course> _:ME2063 .
+_:mediaManage <course> _:ME2072 .
+_:mediaManage <course> _:ME2073 .
+_:mediaManage <course> _:ME2075 .
+_:mediaManage <course> _:ME2089 .
+_:mediaManage <course> _:ME2092 .
+_:mediaManage <course> _:ME2093 .
+_:mediaManage <course> _:ME2718 .
+_:mediaManage <course> _:DM2076 .
+_:mediaManage <course> _:DM2574 .
+_:medical <course> _:AK2036 .
+_:medical <course> _:AK2050 .
+_:medical <course> _:DD2401 .
+_:medical <course> _:DD2404 .
+_:medical <course> _:DD2423 .
+_:medical <course> _:DD2424 .
+_:medical <course> _:DD2425 .
+_:medical <course> _:DD2435 .
+_:medical <course> _:DD2437 .
+_:medical <course> _:DD2438 .
+_:medical <course> _:DT2112 .
+_:medical <course> _:DT2119 .
+_:medical <course> _:EK2350 .
+_:medical <course> _:EQ2341 .
+_:medical <course> _:HI2010 .
+_:medical <course> _:HL2003 .
+_:medical <course> _:HL2005 .
+_:medical <course> _:HL2006 .
+_:medical <course> _:HL2008 .
+_:medical <course> _:HL2011 .
+_:medical <course> _:HL2013 .
+_:medical <course> _:HL2014 .
+_:medical <course> _:HL2016 .
+_:medical <course> _:HL2017 .
+_:medical <course> _:HL2018 .
+_:medical <course> _:HL2019 .
+_:medical <course> _:HL2025 .
+_:medical <course> _:HL2027 .
+_:medical <course> _:HL2028 .
+_:medical <course> _:HL202X .
+_:medical <course> _:HL2032 .
+_:medical <course> _:HL2034 .
+_:medical <course> _:HL2040 .
+_:medical <course> _:HL207X .
+_:medical <course> _:HM102V .
+_:medical <course> _:HN2013 .
+_:medical <course> _:ID2222 .
+_:medical <course> _:ID2223 .
+_:medical <course> _:IL2237 .
+_:medical <course> _:ME2016 .
+_:medical <course> _:ME2053 .
+_:medical <course> _:ME2063 .
+_:medical <course> _:ME2815 .
+_:medical <course> _:ME2824 .
+_:medical <course> _:ME2829 .
+_:medical <course> _:MF2030 .
+_:medical <course> _:MF2043 .
+_:medical <course> _:SD2450 .
+_:medical <course> _:SE2121 .
+_:medical <course> _:SE2126 .
+_:medical <course> _:SG2804 .
+_:medical <course> _:SH2101 .
+_:medical <course> _:SH2302 .
+_:medical <course> _:SI3720 .
+_:medical <course> _:SK2501 .
+_:medical <course> _:SK2520 .
+_:medicalBio <course> _:AK2036 .
+_:medicalBio <course> _:BB1030 .
+_:medicalBio <course> _:BB1160 .
+_:medicalBio <course> _:BB2160 .
+_:medicalBio <course> _:BB2441 .
+_:medicalBio <course> _:BB2470 .
+_:medicalBio <course> _:ME1003 .
+_:medicalBio <course> _:BB1000 .
+_:medicalBio <course> _:BB2330 .
+_:medicalBio <course> _:BB2445 .
+_:medicalBio <course> _:BB2460 .
+_:medicalBio <course> _:DD2404 .
+_:medicalBio <course> _:ME2824 .
+_:medicalBio <course> _:BB2170 .
+_:medicalBio <course> _:BB2290 .
+_:medicalBio <course> _:BB2510 .
+_:medicalBio <course> _:AK2008 .
+_:medicalBio <course> _:BB2010 .
+_:medicalBio <course> _:BB2020 .
+_:medicalBio <course> _:KD2310 .
+_:medicalBio <course> _:KD2320 .
+_:medicalBio <course> _:ME2016 .
+_:medicalBio <course> _:BB201X .
+_:medicalBio <course> _:SI2710 .
+_:medicalBio <course> _:BB2491 .
+_:medicalBio <course> _:BB2535 .
+_:medicalBio <course> _:BB2485 .
+_:molecularscience <course> _:AK2036 .
+_:molecularscience <course> _:KD2310 .
+_:molecularscience <course> _:KD2320 .
+_:molecularscience <course> _:KD2330 .
+_:molecularscience <course> _:KD2350 .
+_:molecularscience <course> _:KD2360 .
+_:molecularscience <course> _:BB2020 .
+_:molecularscience <course> _:BB2460 .
+_:molecularscience <course> _:KD2155 .
+_:molecularscience <course> _:KD2340 .
+_:molecularscience <course> _:KD2370 .
+_:molecularscience <course> _:ME2814 .
+_:molecularscience <course> _:KD2300 .
+_:molecularscience <course> _:KD2380 .
+_:molecularscience <course> _:KD2385 .
+_:molecularscience <course> _:KD2390 .
+_:molecularscience <course> _:KE2300 .
+_:molecularscience <course> _:KF2140 .
+_:molecularscience <course> _:SI2710 .
+_:molecularscience <course> _:KD3300 .
+_:molecularscience <course> _:KE3140 .
+_:molecularscience <course> _:KF2210 .
+_:nanotech <course> _:IH2652 .
+_:nanotech <course> _:IH2659 .
+_:nanotech <course> _:SK2770 .
+_:nanotech <course> _:SK2772 .
+_:nanotech <course> _:SK2901 .
+_:nanotech <course> _:BB2400 .
+_:nanotech <course> _:SK2773 .
+_:nanotech <course> _:SK2774 .
+_:nanotech <course> _:EK2350 .
+_:nanotech <course> _:IH1611 .
+_:nanotech <course> _:IH2657 .
+_:nanotech <course> _:AK2036 .
+_:nanotech <course> _:SK2757 .
+_:nanotech <course> _:SK2760 .
+_:nanotech <course> _:SK2775 .
+_:nanotech <course> _:EK2360 .
+_:nanotech <course> _:IL2238 .
+_:nanotech <course> _:SK2822 .
+_:nanotech <course> _:IH3610 .
+_:nanotech <course> _:SK2750 .
+_:navalArch <course> _:SD2413 .
+_:navalArch <course> _:SD2414 .
+_:navalArch <course> _:SD2411 .
+_:navalArch <course> _:SD2721 .
+_:navalArch <course> _:SD2722 .
+_:navalArch <course> _:SD2723 .
+_:navalArch <course> _:SG2212 .
+_:navalArch <course> _:SG2224 .
+_:navalArch <course> _:SD2705 .
+_:navalArch <course> _:AK2036 .
+_:navalArch <course> _:SD2416 .
+_:navalArch <course> _:ME1003 .
+_:navalArch <course> _:MF2047 .
+_:navalArch <course> _:SD2709 .
+_:navalArch <course> _:MG1030 .
+_:navalArch <course> _:SG1218 .
+_:navalArch <course> _:SG3112 .
+_:nuke <course> _:SH2600 .
+_:nuke <course> _:SH2603 .
+_:nuke <course> _:SH2702 .
+_:nuke <course> _:SH2706 .
+_:nuke <course> _:SH2773 .
+_:nuke <course> _:MJ2411 .
+_:nuke <course> _:SH2302 .
+_:nuke <course> _:SH2604 .
+_:nuke <course> _:SH2605 .
+_:nuke <course> _:SH2610 .
+_:nuke <course> _:SH262V .
+_:nuke <course> _:SH2701 .
+_:nuke <course> _:SH2703 .
+_:nuke <course> _:SH2704 .
+_:nuke <course> _:SH2705 .
+_:nuke <course> _:SH2774 .
+_:nuke <course> _:AK2030 .
+_:nuke <course> _:SH2007 .
+_:nuke <course> _:SH204X .
+_:nuke <course> _:SH2609 .
+_:nuke <course> _:ED2235 .
+_:nuke <course> _:EF2200 .
+_:nuke <course> _:SH2608 .
+_:nuke <course> _:SH2611 .
+_:nuke <course> _:SH2772 .
+_:physics <course> _:AK2030 .
+_:physics <course> _:HL2006 .
+_:physics <course> _:IO3656 .
+_:physics <course> _:SH1004 .
+_:physics <course> _:SH2007 .
+_:physics <course> _:SH2011 .
+_:physics <course> _:SH2101 .
+_:physics <course> _:SH2200 .
+_:physics <course> _:SH2201 .
+_:physics <course> _:SH2302 .
+_:physics <course> _:SH2306 .
+_:physics <course> _:SH2403 .
+_:physics <course> _:SH3220 .
+_:physics <course> _:SI1142 .
+_:physics <course> _:SI1336 .
+_:physics <course> _:SI2371 .
+_:physics <course> _:SI2372 .
+_:physics <course> _:SI2380 .
+_:physics <course> _:SI2390 .
+_:physics <course> _:SI2400 .
+_:physics <course> _:SI2410 .
+_:physics <course> _:SI2510 .
+_:physics <course> _:SI2520 .
+_:physics <course> _:SI2530 .
+_:physics <course> _:SI2540 .
+_:physics <course> _:SI2600 .
+_:physics <course> _:SI3720 .
+_:physics <course> _:SK2300 .
+_:physics <course> _:SK2301 .
+_:physics <course> _:SK2320 .
+_:physics <course> _:SK2330 .
+_:physics <course> _:SK2340 .
+_:physics <course> _:SK2350 .
+_:physics <course> _:SK2400 .
+_:physics <course> _:SK2411 .
+_:physics <course> _:SK2500 .
+_:physics <course> _:SK2512 .
+_:physics <course> _:SK2513 .
+_:physics <course> _:SK2520 .
+_:physics <course> _:SK2521 .
+_:physics <course> _:SK2531 .
+_:physics <course> _:SK2540 .
+_:physics <course> _:SK2550 .
+_:physics <course> _:SK2560 .
+_:physics <course> _:SK2700 .
+_:physics <course> _:SK2710 .
+_:physics <course> _:SK2758 .
+_:physics <course> _:SK2759 .
+_:physics <course> _:SK2761 .
+_:physics <course> _:SK2800 .
+_:physics <course> _:SK2900 .
+_:prodEngMange <course> _:MG2029 .
+_:prodEngMange <course> _:MG2100 .
+_:prodEngMange <course> _:MG2128 .
+_:prodEngMange <course> _:MG2130 .
+_:prodEngMange <course> _:DD1320 .
+_:prodEngMange <course> _:ME2053 .
+_:prodEngMange <course> _:MG1007 .
+_:prodEngMange <course> _:MG2010 .
+_:prodEngMange <course> _:MG2020 .
+_:prodEngMange <course> _:MG2022 .
+_:prodEngMange <course> _:MG2028 .
+_:prodEngMange <course> _:MG2032 .
+_:prodEngMange <course> _:MG2036 .
+_:prodEngMange <course> _:MG2037 .
+_:prodEngMange <course> _:MG2103 .
+_:prodEngMange <course> _:MG2104 .
+_:prodEngMange <course> _:MG2135 .
+_:prodEngMange <course> _:MG2202 .
+_:prodEngMange <course> _:MG2027 .
+_:prodEngMange <course> _:MG2009 .
+_:prodEngMange <course> _:MG2038 .
+_:prodEngMange <course> _:MG2109 .
+_:prodEngMange <course> _:MG2110 .
+_:prodEngMange <course> _:MG1030 .
+_:prodEngMange <course> _:MG1031 .
+_:prodEngMange <course> _:MG112V .
+_:prodEngMange <course> _:MG203X .
+_:railway <course> _:AK2036 .
+_:railway <course> _:EJ2400 .
+_:railway <course> _:SD2307 .
+_:railway <course> _:SD2313 .
+_:railway <course> _:AF2201 .
+_:railway <course> _:AH2026 .
+_:railway <course> _:AH2029 .
+_:railway <course> _:AH2102 .
+_:railway <course> _:AH2173 .
+_:railway <course> _:AH2301 .
+_:railway <course> _:SD2229 .
+_:railway <course> _:SD2230 .
+_:railway <course> _:SD2231 .
+_:railway <course> _:SD2411 .
+_:railway <course> _:SD2191 .
+_:railway <course> _:SG3128 .
+_:realestate <course> _:AI2152 .
+_:realestate <course> _:AI2810 .
+_:realestate <course> _:AI2135 .
+_:realestate <course> _:AI2144 .
+_:realestate <course> _:AI2154 .
+_:realestate <course> _:AI2155 .
+_:realestate <course> _:AI2156 .
+_:realestate <course> _:AI2508 .
+_:realestate <course> _:AI2511 .
+_:realestate <course> _:AI2805 .
+_:realestate <course> _:AI2808 .
+_:realestate <course> _:AI2809 .
+_:realestate <course> _:AI2150 .
+_:realestate <course> _:AI206X .
+_:realestate <course> _:AI2106 .
+_:realestate <course> _:AI2117 .
+_:realestate <course> _:AI2127 .
+_:realestate <course> _:AI2153 .
+_:realestate <course> _:AI2505 .
+_:realestate <course> _:AI2518 .
+_:realestate <course> _:AI252X .
+_:realestate <course> _:AI2807 .
+_:realestate <course> _:AI281X .
+_:realestate <course> _:AI271U .
+_:realestate <course> _:AI3306 .
+_:realestate <course> _:AI282U .
+_:realestate <course> _:AI1524 .
+_:realestate <course> _:AI1521 .
+_:softDist <course> _:ID2201 .
+_:softDist <course> _:ID2207 .
+_:softDist <course> _:ID2209 .
+_:softDist <course> _:ID2010 .
+_:softDist <course> _:ID2012 .
+_:softDist <course> _:ID2204 .
+_:softDist <course> _:ID2210 .
+_:softDist <course> _:IK2206 .
+_:softDist <course> _:ID2203 .
+_:softDist <course> _:ID2208 .
+_:softDist <course> _:ID1212 .
+_:softDist <course> _:II2202 .
+_:softDist <course> _:ID2221 .
+_:softDist <course> _:ID2222 .
+_:softDist <course> _:ID2223 .
+_:softDist <course> _:II2300 .
+_:softDist <course> _:ID2213 .
+_:supd <course> _:AG2126 .
+_:supd <course> _:AG2805 .
+_:supd <course> _:AD2862 .
+_:supd <course> _:AD2865 .
+_:supd <course> _:AD2867 .
+_:supd <course> _:AE2507 .
+_:supd <course> _:AG2116 .
+_:supd <course> _:AG2127 .
+_:supd <course> _:AG2128 .
+_:supd <course> _:AG2171 .
+_:supd <course> _:AG2804 .
+_:supd <course> _:AG2806 .
+_:supd <course> _:AD2863 .
+_:supd <course> _:AG2129 .
+_:supd <course> _:AG212X .
+_:supd <course> _:AG2130 .
+_:supd <course> _:AG2134 .
+_:supd <course> _:AG2803 .
+_:supd <course> _:AG2809 .
+_:supd <course> _:AG2811 .
+_:supd <course> _:AL250X .
+_:supd <course> _:AD2EXU .
+_:sustainEE <course> _:MJ2405 .
+_:sustainEE <course> _:MJ2407 .
+_:sustainEE <course> _:MJ2410 .
+_:sustainEE <course> _:MJ2411 .
+_:sustainEE <course> _:MJ2413 .
+_:sustainEE <course> _:ME2085 .
+_:sustainEE <course> _:ME2087 .
+_:sustainEE <course> _:MJ2381 .
+_:sustainEE <course> _:MJ2412 .
+_:sustainEE <course> _:MJ2422 .
+_:sustainEE <course> _:MJ2423 .
+_:sustainEE <course> _:MJ2424 .
+_:sustainEE <course> _:MJ2426 .
+_:sustainEE <course> _:MJ2476 .
+_:sustainEE <course> _:MJ2500 .
+_:sustainEE <course> _:MJ2501 .
+_:sustainEE <course> _:ED2200 .
+_:sustainEE <course> _:MJ2244 .
+_:sustainEE <course> _:MJ2246 .
+_:sustainEE <course> _:MJ2430 .
+_:sustainEE <course> _:MJ2437 .
+_:sustainEE <course> _:MJ2438 .
+_:sustainEE <course> _:MJ2472 .
+_:sustainEE <course> _:MJ2409 .
+_:sustainEE <course> _:MJ2440 .
+_:sustainEE <course> _:MJ2475 .
+_:sustainEE <course> _:EG2340 .
+_:sustainEE <course> _:ME2086 .
+_:sustainEE <course> _:MJ2382 .
+_:sustainEE <course> _:MJ2383 .
+_:sustainEE <course> _:MJ2420 .
+_:sustainEE <course> _:MJ2429 .
+_:sustainEE <course> _:MJ2434 .
+_:sustainEE <course> _:MJ2460 .
+_:sustainEE <course> _:MJ2462 .
+_:sustainEE <course> _:MJ2477 .
+_:sustainEE <course> _:MJ2503 .
+_:sustainTech <course> _:AL2181 .
+_:sustainTech <course> _:MJ2615 .
+_:sustainTech <course> _:MJ2659 .
+_:sustainTech <course> _:MJ2673 .
+_:sustainTech <course> _:AL2115 .
+_:sustainTech <course> _:AL2130 .
+_:sustainTech <course> _:AL2134 .
+_:sustainTech <course> _:AL2143 .
+_:sustainTech <course> _:AL2156 .
+_:sustainTech <course> _:AL2160 .
+_:sustainTech <course> _:AL2190 .
+_:sustainTech <course> _:AL227X .
+_:sustainTech <course> _:AG2800 .
+_:sustainTech <course> _:AL2110 .
+_:sustainTech <course> _:AL2142 .
+_:sustainTech <course> _:AL2161 .
+_:sustainTech <course> _:AL2195 .
+_:sustainTech <course> _:MJ2685 .
+_:sysConRob <course> _:AK2036 .
+_:sysConRob <course> _:DD2352 .
+_:sysConRob <course> _:DD2380 .
+_:sysConRob <course> _:DD2385 .
+_:sysConRob <course> _:DD2387 .
+_:sysConRob <course> _:DD2401 .
+_:sysConRob <course> _:DD2410 .
+_:sysConRob <course> _:DD2411 .
+_:sysConRob <course> _:DD2419 .
+_:sysConRob <course> _:DD2420 .
+_:sysConRob <course> _:DD2423 .
+_:sysConRob <course> _:DD2424 .
+_:sysConRob <course> _:DD2425 .
+_:sysConRob <course> _:DD2429 .
+_:sysConRob <course> _:DD2431 .
+_:sysConRob <course> _:DD2435 .
+_:sysConRob <course> _:DD2437 .
+_:sysConRob <course> _:DD2438 .
+_:sysConRob <course> _:DD2447 .
+_:sysConRob <course> _:DD2459 .
+_:sysConRob <course> _:DD2464 .
+_:sysConRob <course> _:DD2476 .
+_:sysConRob <course> _:DD2434 .
+_:sysConRob <course> _:DH2620 .
+_:sysConRob <course> _:DT2140 .
+_:sysConRob <course> _:EG2100 .
+_:sysConRob <course> _:EG2210 .
+_:sysConRob <course> _:EG3214 .
+_:sysConRob <course> _:EH2030 .
+_:sysConRob <course> _:EH2741 .
+_:sysConRob <course> _:EH2745 .
+_:sysConRob <course> _:EH2760 .
+_:sysConRob <course> _:EJ2201 .
+_:sysConRob <course> _:EJ2301 .
+_:sysConRob <course> _:EK2350 .
+_:sysConRob <course> _:EK2360 .
+_:sysConRob <course> _:EL1010 .
+_:sysConRob <course> _:EL2221 .
+_:sysConRob <course> _:EL2222 .
+_:sysConRob <course> _:EL2425 .
+_:sysConRob <course> _:EL2450 .
+_:sysConRob <course> _:EL2520 .
+_:sysConRob <course> _:EL2620 .
+_:sysConRob <course> _:EL2700 .
+_:sysConRob <course> _:EL2805 .
+_:sysConRob <course> _:EL2820 .
+_:sysConRob <course> _:EL2320 .
+_:sysConRob <course> _:EP2200 .
+_:sysConRob <course> _:EP2500 .
+_:sysConRob <course> _:EP2700 .
+_:sysConRob <course> _:EP2520 .
+_:sysConRob <course> _:EQ1220 .
+_:sysConRob <course> _:EQ2300 .
+_:sysConRob <course> _:EQ2321 .
+_:sysConRob <course> _:EQ2401 .
+_:sysConRob <course> _:EQ2800 .
+_:sysConRob <course> _:EQ2810 .
+_:sysConRob <course> _:EQ2820 .
+_:sysConRob <course> _:EQ2871 .
+_:sysConRob <course> _:HI1005 .
+_:sysConRob <course> _:II2302 .
+_:sysConRob <course> _:IL2206 .
+_:sysConRob <course> _:IL3008 .
+_:sysConRob <course> _:IS1200 .
+_:sysConRob <course> _:LS1419 .
+_:sysConRob <course> _:LS1464 .
+_:sysConRob <course> _:LS2426 .
+_:sysConRob <course> _:LS2429 .
+_:sysConRob <course> _:LS2436 .
+_:sysConRob <course> _:LS2439 .
+_:sysConRob <course> _:LS2449 .
+_:sysConRob <course> _:ME1003 .
+_:sysConRob <course> _:ME2089 .
+_:sysConRob <course> _:MF2007 .
+_:sysConRob <course> _:MF2030 .
+_:sysConRob <course> _:MF2043 .
+_:sysConRob <course> _:SD2231 .
+_:sysConRob <course> _:SF1628 .
+_:sysConRob <course> _:SF1861 .
+_:sysConRob <course> _:SF2568 .
+_:sysConRob <course> _:SF2842 .
+_:sysConRob <course> _:SF2940 .
+_:sysConRob <course> _:SF2945 .
+_:sysConRob <course> _:SF2812 .
+_:sysConRob <course> _:SF2832 .
+_:sysConRob <course> _:SF2852 .
+_:techWorkHealth <course> _:HN2015 .
+_:techWorkHealth <course> _:HN2020 .
+_:techWorkHealth <course> _:HN2021 .
+_:techWorkHealth <course> _:HN2022 .
+_:techWorkHealth <course> _:HN2016 .
+_:techWorkHealth <course> _:HN2017 .
+_:techWorkHealth <course> _:HN2018 .
+_:techWorkHealth <course> _:HN2019 .
+_:techWorkHealth <course> _:HN206X .
+_:transGeo <course> _:AG2411 .
+_:transGeo <course> _:AG2412 .
+_:transGeo <course> _:AG2413 .
+_:transGeo <course> _:AG2414 .
+_:transGeo <course> _:AG2425 .
+_:transGeo <course> _:AG2926 .
+_:transGeo <course> _:AH2026 .
+_:transGeo <course> _:AH2170 .
+_:transGeo <course> _:AH2171 .
+_:transGeo <course> _:AH2173 .
+_:transGeo <course> _:AH2301 .
+_:transGeo <course> _:AH2303 .
+_:transGeo <course> _:AH2307 .
+_:transGeo <course> _:AH2923 .
+_:transGeo <course> _:AH2178 .
+_:transGeo <course> _:AG2417 .
+_:transGeo <course> _:AG2421 .
+_:transGeo <course> _:AG243X .
+_:transGeo <course> _:AG2927 .
+_:transGeo <course> _:AH2029 .
+_:transGeo <course> _:AH203X .
+_:transGeo <course> _:AH204X .
+_:transGeo <course> _:AH2102 .
+_:transGeo <course> _:AH2174 .
+_:transGeo <course> _:AH222X .
+_:transGeo <course> _:AH2314 .
+_:transGeo <course> _:AH2915 .
+_:transGeo <course> _:AK2038 .
+_:transGeo <course> _:AH292X .
+_:urban <course> _:AG2135 .
+_:urban <course> _:AG2182 .
+_:urban <course> _:AG2183 .
+_:urban <course> _:AG2184 .
+_:urban <course> _:AG2185 .
+_:urban <course> _:AG2186 .
+_:urban <course> _:AG2187 .
+_:urban <course> _:AG2188 .
+_:urban <course> _:AG218X .
+_:vehicleEng <course> _:AF2901 .
+_:vehicleEng <course> _:AH2170 .
+_:vehicleEng <course> _:AH2171 .
+_:vehicleEng <course> _:AH2174 .
+_:vehicleEng <course> _:AH2307 .
+_:vehicleEng <course> _:EL2520 .
+_:vehicleEng <course> _:MF2007 .
+_:vehicleEng <course> _:MF2030 .
+_:vehicleEng <course> _:MF2043 .
+_:vehicleEng <course> _:SD2111 .
+_:vehicleEng <course> _:SD2150 .
+_:vehicleEng <course> _:SD2155 .
+_:vehicleEng <course> _:SD2231 .
+_:vehicleEng <course> _:SD2411 .
+_:vehicleEng <course> _:SD2416 .
+_:vehicleEng <course> _:SD2625 .
+_:vehicleEng <course> _:EJ2410 .
+_:vehicleEng <course> _:MF2047 .
+_:vehicleEng <course> _:SD2221 .
+_:vehicleEng <course> _:SD2222 .
+_:vehicleEng <course> _:SD2225 .
+_:vehicleEng <course> _:EJ2400 .
+_:vehicleEng <course> _:SD2307 .
+_:vehicleEng <course> _:SD2313 .
+_:vehicleEng <course> _:SD2230 .
+_:vehicleEng <course> _:AK2036 .
+_:vehicleEng <course> _:SD2229 .
+_:vehicleEng <course> _:AH2026 .
+_:vehicleEng <course> _:SD2191 .
+_:vehicleEng <course> _:SG3128 .
+_:vehicleEng <course> _:SG1218 .

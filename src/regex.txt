@@ -1,0 +1,27 @@
+# Regex for courses.csv:
+F: (^\w*);(.*);(\d*,\d);(\w{6});(.*$)
+R: (e.g) $5$4$3$2$1
+
+# Regex for reqs.csv
+F: (.*);(.*);(.*)
+R: (e.g) $3$2$1
+
+CREATE TABLE depmap(
+  code nvarchar(6),
+  need1 nvarchar(50),
+  need2 nvarchar(50),
+  need3 nvarchar(50),
+  need4 nvarchar(50),
+  need5 nvarchar(50),
+  need6 nvarchar(50),
+  need7 nvarchar(50),
+  need8 nvarchar(50),
+  need9 nvarchar(50),
+  need10 nvarchar(50),
+  need11 nvarchar(50),
+  need12 nvarchar(50),
+  need13 nvarchar(50),
+  need14 nvarchar(50),
+  need15 nvarchar(50),
+  need16 nvarchar(50)
+)

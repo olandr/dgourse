@@ -1,0 +1,112 @@
+_:CLGYM <track> _:clgymTEMI .
+_:CLGYM <track> _:clgymMAKE .
+_:CLGYM <track> _:clgymMAFY .
+_:CLGYM <track> _:clgymTIKT .
+_:clgymTEMI <name> "Matematik och Teknik: Energi och miljö" .
+_:clgymTIKT <name> "Matematik och Teknik: Informations- och kommunikationsteknik" .
+_:clgymMAKE <name> "Matematik och kemi" .
+_:clgymMAFY <name> "Matematik och fysik" .
+_:CLGYM <course> _:SF1624 (year=2) .
+_:CLGYM <course> _:SF1625 (year=2) .
+_:CLGYM <course> _:SF1626 (year=2) .
+_:CLGYM <course> _:SI1121 (year=2) .
+_:CLGYM <course> _:UCK310 (year=2) .
+_:CLGYM <course> _:UMK310 (year=2) .
+_:CLGYM <course> _:LT1022 (year=3) .
+_:CLGYM <course> _:ME2084 (year=3) .
+_:CLGYM <course> _:SF1544 (year=3) .
+_:CLGYM <course> _:SF1629 (year=3) .
+_:CLGYM <course> _:SF1633 (year=3) .
+_:CLGYM <course> _:SF1912 (year=3) .
+_:CLGYM <course> _:SH1006 (year=3) .
+_:CLGYM <course> _:EH2070 (year=4) .
+_:CLGYM <course> _:MJ2612 (year=4) .
+_:CLGYM <course> _:SF2717 (year=4) .
+_:CLGYM <course> _:SF2718 (year=4) .
+_:CLGYM <course> _:UMK701 (year=4) .
+_:CLGYM <course> _:UMK802 (year=4) .
+_:CLGYM <course> _:AK2055 (year=5) .
+_:CLGYM <course> _:LT200X (year=5) .
+_:CLGYM <course> _:SF2719 (year=5) .
+_:CLGYM <course> _:UMK803 (year=5) .
+_:CLGYM <course> _:UQK701 (year=5) .
+_:CLGYM <course> _:SF1628 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF1677 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF1678 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF2701 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF2832 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF2930 (year=4, kind="Villkorligt valfri") .
+_:CLGYM <course> _:SF2940 (year=4, kind="Villkorligt valfri") .
+_:clgymTEMI <course> _:AE1503 (year=2, kind="Obligatorisk") .
+_:clgymTEMI <course> _:MJ1508 (year=2, kind="Obligatorisk") .
+_:clgymTEMI <course> _:SG1102 (year=2, kind="Obligatorisk") .
+_:clgymTEMI <course> _:KE1060 (year=3, kind="Obligatorisk") .
+_:clgymTEMI <course> _:MJ1112 (year=3, kind="Obligatorisk") .
+_:clgymTEMI <course> _:MJ1145 (year=3, kind="Obligatorisk") .
+_:clgymTEMI <course> _:MJ2615 (year=3, kind="Obligatorisk") .
+_:clgymTEMI <course> _:SF1910 (year=3, kind="Obligatorisk") .
+_:clgymTEMI <course> _:AK2209 (year=4, kind="Obligatorisk") .
+_:clgymTIKT <course> _:SF2520 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD1325 (year=2, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD2310 (year=2, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DH2624 (year=2, kind="Obligatorisk") .
+_:clgymTIKT <course> _:IS1500 (year=2, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD1362 (year=3, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD1368 (year=3, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD1392 (year=3, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD1395 (year=3, kind="Obligatorisk") .
+_:clgymTIKT <course> _:SF1514 (year=3, kind="Obligatorisk") .
+_:clgymTIKT <course> _:DD1350 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD1352 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD1396 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2352 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2385 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2395 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2418 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2429 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2440 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2442 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2447 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DD2448 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DH2320 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DH2323 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DH2408 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DM2518 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:DT2140 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:IK2218 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:MG2128 (year=4, kind="Villkorligt valfri") .
+_:clgymMAKE <course> _:KD1070 (year=3, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KD1080 (year=3, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KA1040 (year=2, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KD1230 (year=2, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KD1290 (year=2, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KE1150 (year=2, kind="Obligatorisk") .
+_:clgymMAKE <course> _:KH1223 (year=5, kind="Obligatorisk") .
+_:clgymMAFY <course> _:SG1120 (year=2, kind="Obligatorisk") .
+_:clgymMAFY <course> _:SI1135 (year=2, kind="Obligatorisk") .
+_:clgymMAFY <course> _:SI1146 (year=2, kind="Obligatorisk") .
+_:clgymMAFY <course> _:EI1260 (year=3, kind="Obligatorisk") .
+_:clgymMAFY <course> _:SG1113 (year=3, kind="Obligatorisk") .
+_:clgymMAFY <course> _:SI1140 (year=3, kind="Obligatorisk") .
+_:clgymMAFY <course> _:ED2200 (year=4, kind="Obligatorisk") .
+_:clgymMAFY <course> _:EF2200 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:EF2240 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:HL2003 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:IM2601 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:IM2661 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SE1005 (year=4, kind="Villkorligt valfri") .
+_:clgymTIKT <course> _:SG1510 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SG2150 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SG2211 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SG2214 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SG2215 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SI1151 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SI2400 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SI2540 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2300 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2301 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2320 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2411 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2511 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2520 (year=4, kind="Villkorligt valfri") .
+_:clgymMAFY <course> _:SK2531 (year=4, kind="Villkorligt valfri") .

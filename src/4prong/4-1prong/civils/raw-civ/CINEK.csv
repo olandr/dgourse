@@ -1,0 +1,57 @@
+_:CINEK <track> _:DKOI .
+_:DKOI <name> "Datateknik och kommunikation" .
+_:CINEK <track> _:PFRI .
+_:PFRI <name> "Produktframtagning" .
+_:CINEK <track> _:EHUI .
+_:EHUI <name> "Energisystem och hållbar utveckling" .
+_:CINEK <track> _:TMAI .
+_:TMAI <name> "Tillämpad matematik" .
+_:CINEK <course> _:SF0003 (year=1, kind="Valfri") .
+_:CINEK <course> _:DD1315 (year=1) .
+_:CINEK <course> _:ME1306 (year=1) .
+_:CINEK <course> _:ME1314 (year=1) .
+_:CINEK <course> _:ME1315 (year=1) .
+_:CINEK <course> _:SF1624 (year=1) .
+_:CINEK <course> _:SF1625 (year=1) .
+_:CINEK <course> _:SF1626 (year=1) .
+_:CINEK <course> _:SG1109 (year=1) .
+_:CINEK <course> _:DD1320 (year=2) .
+_:CINEK <course> _:ME1308 (year=2) .
+_:CINEK <course> _:ME1309 (year=2) .
+_:CINEK <course> _:ME1316 (year=2) .
+_:CINEK <course> _:SF1544 (year=2) .
+_:CINEK <course> _:SF1633 (year=2) .
+_:CINEK <course> _:SF1912 (year=2) .
+_:CINEK <course> _:SK1110 (year=2) .
+_:CINEK <course> _:ME1310 (year=3) .
+_:CINEK <course> _:ME1313 (year=3) .
+_:CINEK <course> _:ME2029 (year=3) .
+_:CINEK <course> _:MF1017 (year=3) .
+_:DKOI <course> _:DD1377 (year=2) .
+_:DKOI <course> _:DH2620 (year=2) .
+_:DKOI <course> _:DD1334 (year=3) .
+_:DKOI <course> _:DD1389 (year=3) .
+_:DKOI <course> _:DD1396 (year=3) .
+_:DKOI <course> _:DD1418 (year=3) .
+_:DKOI <course> _:DD2385 (year=3) .
+_:DKOI <course> _:DD2418 (year=3) .
+_:PFRI <course> _:MF1039 (year=2) .
+_:PFRI <course> _:MG1028 (year=2) .
+_:PFRI <course> _:DD1324 (year=3) .
+_:PFRI <course> _:EL1010 (year=3) .
+_:PFRI <course> _:MG1002 (year=3) .
+_:PFRI <course> _:MG1026 (year=3) .
+_:PFRI <course> _:MG115X (year=3) .
+_:EHUI <course> _:MJ1112 (year=2) .
+_:EHUI <course> _:MJ1145 (year=2) .
+_:EHUI <course> _:MJ1141 (year=3) .
+_:EHUI <course> _:MJ1401 (year=3) .
+_:EHUI <course> _:MJ146X (year=3) .
+_:EHUI <course> _:EG2205 (year=3) .
+_:TMAI <course> _:SF1904 (year=2) .
+_:TMAI <course> _:SF2701 (year=2) .
+_:TMAI <course> _:SF100X (year=3) .
+_:TMAI <course> _:SF1861 (year=3) .
+_:TMAI <course> _:SF2863 (year=3) .
+_:TMAI <course> _:SF2930 (year=3) .
+_:TMAI <course> _:SF2940 (year=3) .

@@ -1,0 +1,15 @@
+3D-Modellering;AD13DA;6.0;Basic;Grundnivå
+
+
+_:AD13DA <name> 3D-Modellering .
+_:AD13DA <hp> 6.0 .
+_:AD13DA <level> Grundnivå .
+_:AD13DA <needs> Basic .
+_:AD13DA <needs> Basi53c .
+_:AD13DA <needs> Basic15 .
+_:AD13DA <needs> Basic14 .
+_:AD13DA <needs> Basic34 .
+_:AD13DA <needs> Basic2 .
+
+
+_:$2 <name> $1 . _:$2 <hp> $3 . _:$2 <level> $4 .

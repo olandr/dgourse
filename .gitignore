@@ -1,0 +1,37 @@
+*.xlsx
+*.mwb
+*.DS_Store
+*.bat
+!winrun.bat
+*.sh
+!macrun.sh
+
+## Ignore Go
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+## We remove the folder containing the newest instance of the complete import.
+data/
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
+
+
+#Gzips
+*.gz
+
+
+#Windows dgraph
+*.exe
+p/
+w/
+zw/
+pics/jigsaw/done/*

@@ -1,0 +1,1086 @@
+_:CBIOT <name> "Civ Bioteknik" .
+_:CDATE <name> "Civ Datateknik" .
+_:CDEPR <name> "Civ Design och produktutveckling" .
+_:CELTE <name> "Civ Elektroteknik" .
+_:CENMI <name> "Civ Energi och miljö" .
+_:CFATE <name> "Civ Farkostteknik" .
+_:CINEK <name> "Civ Industriell Ekonomi" .
+_:CINTE <name> "Civ Informationsteknik" .
+_:CITEH <name> "Civ Industriell teknik och hållbarhet" .
+_:CLGYM <name> "Civilingenjör och Lärare" .
+_:CMAST <name> "Civ Maskinteknik" .
+_:CMATD <name> "Civ Materialdesign" .
+_:CMEDT <name> "Civ Medicinsk teknik" .
+_:CMETE <name> "Civ Medieteknik" .
+_:COPEN <name> "Civ Öppen ingång" .
+_:CSAMH <name> "Civ Samhällsbyggnad" .
+_:CTFYS <name> "Civ Teknisk fysik" .
+_:CTKEM <name> "Civ Teknisk kemi" .
+_:CBIOT <scope> "Civ" .
+_:CDATE <scope> "Civ" .
+_:CDEPR <scope> "Civ" .
+_:CELTE <scope> "Civ" .
+_:CENMI <scope> "Civ" .
+_:CFATE <scope> "Civ" .
+_:CINEK <scope> "Civ" .
+_:CINTE <scope> "Civ" .
+_:CITEH <scope> "Civ" .
+_:CLGYM <scope> "Civ" .
+_:CMAST <scope> "Civ" .
+_:CMATD <scope> "Civ" .
+_:CMEDT <scope> "Civ" .
+_:CMETE <scope> "Civ" .
+_:COPEN <scope> "Civ" .
+_:CSAMH <scope> "Civ" .
+_:CTFYS <scope> "Civ" .
+_:CTKEM <scope> "Civ" .
+_:CBIOT <course> _:BB1030 (year=1) .
+_:CBIOT <course> _:BB1150 (year=1) .
+_:CBIOT <course> _:BB1160 (year=1) .
+_:CBIOT <course> _:BB1170 (year=1) .
+_:CBIOT <course> _:BB1190 (year=1) .
+_:CBIOT <course> _:KD1020 (year=1) .
+_:CBIOT <course> _:KD1230 (year=1) .
+_:CBIOT <course> _:KE1180 (year=1) .
+_:CBIOT <course> _:SF1625 (year=1) .
+_:CBIOT <course> _:KE0110 (year=1, kind="Villkorligt valfri") .
+_:CBIOT <course> _:SF0003 (year=1, kind="Villkorligt valfri") .
+_:CBIOT <course> _:BB1170 (year=2) .
+_:CBIOT <course> _:BB1200 (year=2) .
+_:CBIOT <course> _:BB1210 (year=2) .
+_:CBIOT <course> _:BB1220 (year=2) .
+_:CBIOT <course> _:BB1230 (year=2) .
+_:CBIOT <course> _:KD1510 (year=2) .
+_:CBIOT <course> _:SF1524 (year=2) .
+_:CBIOT <course> _:SF1624 (year=2) .
+_:CBIOT <course> _:SK1150 (year=2) .
+_:CBIOT <course> _:SF1626 (year=3, kind="Villkorligt valfri") .
+_:CBIOT <course> _:KD1270 (year=3, kind="Villkorligt valfri") .
+_:CBIOT <course> _:KE1185 (year=3, kind="Villkorligt valfri") .
+_:CBIOT <course> _:BB1000 (year=3, kind="Villkorligt valfri") .
+_:CBIOT <course> _:BB103X (year=4) .
+_:CBIOT <course> _:BB1170 (year=4) .
+_:CBIOT <course> _:BB1220 (year=4) .
+_:CBIOT <course> _:BB1300 (year=4) .
+_:CBIOT <course> _:KD1500 (year=4) .
+_:CBIOT <course> _:SF1911 (year=4) .
+_:CBIOT <course> _:SI1410 (year=4) .
+_:CBIOT <course> _:BB1070 (year=4, kind="Villkorligt valfri") .
+_:CBIOT <course> _:KD1070 (year=4, kind="Villkorligt valfri") .
+_:CBIOT <course> _:KE1185 (year=4, kind="Villkorligt valfri") .
+_:CBIOT <course> _:KD1270 (year=4, kind="Villkorligt valfri") .
+_:CBIOT <course> _:SF1626 (year=4, kind="Villkorligt valfri") .
+_:CBIOT <course> _:BB1000 (year=4, kind="Villkorligt valfri") .
+_:CDATE <course> _:DA1600 (year=1) .
+_:CDATE <course> _:DD1337 (year=1) .
+_:CDATE <course> _:DD1338 (year=1) .
+_:CDATE <course> _:DD1349 (year=1) .
+_:CDATE <course> _:DD1390 (year=1) .
+_:CDATE <course> _:DD1396 (year=1) .
+_:CDATE <course> _:DH1620 (year=1) .
+_:CDATE <course> _:SF1547 (year=1) .
+_:CDATE <course> _:SF1624 (year=1) .
+_:CDATE <course> _:SF1625 (year=1) .
+_:CDATE <course> _:SF1671 (year=1) .
+_:CDATE <course> _:DD1351 (year=2) .
+_:CDATE <course> _:DD1362 (year=2) .
+_:CDATE <course> _:DD1368 (year=2) .
+_:CDATE <course> _:DD1390 (year=2) .
+_:CDATE <course> _:DD1393 (year=2) .
+_:CDATE <course> _:IS1500 (year=2) .
+_:CDATE <course> _:ME1010 (year=2) .
+_:CDATE <course> _:SF1924 (year=2) .
+_:CDATE <course> _:DD1354 (year=2, kind="Villkorligt valfri") .
+_:CDATE <course> _:SF1626 (year=2, kind="Villkorligt valfri") .
+_:CDATE <course> _:AL1504 (year=3) .
+_:CDATE <course> _:DD1390 (year=3) .
+_:CDATE <course> _:DD2350 (year=3) .
+_:CDATE <course> _:ID1200 (year=3) .
+_:CDATE <course> _:SF1688 (year=3) .
+_:CDEPR <course> _:MF1061 (year=1) .
+_:CDEPR <course> _:MF1062 (year=1) .
+_:CDEPR <course> _:SF1522 (year=1) .
+_:CDEPR <course> _:SF1523 (year=1) .
+_:CDEPR <course> _:SF1624 (year=1) .
+_:CDEPR <course> _:SF1625 (year=1) .
+_:CDEPR <course> _:SF1626 (year=1) .
+_:CDEPR <course> _:SG1130 (year=1) .
+_:CDEPR <course> _:MF1039 (year=2) .
+_:CDEPR <course> _:MF1063 (year=2) .
+_:CDEPR <course> _:MF1064 (year=2) .
+_:CDEPR <course> _:MG1016 (year=2) .
+_:CDEPR <course> _:MJ1112 (year=2) .
+_:CDEPR <course> _:SD1116 (year=2) .
+_:CDEPR <course> _:SE1020 (year=2) .
+_:CDEPR <course> _:SG1140 (year=2) .
+_:CDEPR <course> _:ME1003 (year=3) .
+_:CDEPR <course> _:MF1016 (year=3) .
+_:CDEPR <course> _:MF1040 (year=3) .
+_:CELTE <course> _:DD1316 (year=1) .
+_:CELTE <course> _:EH1010 (year=1) .
+_:CELTE <course> _:EH1110 (year=1) .
+_:CELTE <course> _:EI1110 (year=1) .
+_:CELTE <course> _:EP1200 (year=1) .
+_:CELTE <course> _:IE1205 (year=1) .
+_:CELTE <course> _:SF1624 (year=1) .
+_:CELTE <course> _:SF1625 (year=1) .
+_:CELTE <course> _:SF1626 (year=1) .
+_:CELTE <course> _:ED1110 (year=2) .
+_:CELTE <course> _:EH1110 (year=2) .
+_:CELTE <course> _:EI1220 (year=2) .
+_:CELTE <course> _:EN1020 (year=2) .
+_:CELTE <course> _:EQ1110 (year=2) .
+_:CELTE <course> _:EQ1120 (year=2) .
+_:CELTE <course> _:SF1920 (year=2) .
+_:CELTE <course> _:SK1108 (year=2) .
+_:CELTE <course> _:DD1320 (year=2, kind="Valfri") .
+_:CELTE <course> _:DD1388 (year=2, kind="Valfri") .
+_:CELTE <course> _:EI1222 (year=2, kind="Valfri") .
+_:CELTE <course> _:EP1100 (year=2, kind="Valfri") .
+_:CELTE <course> _:IH1611 (year=2, kind="Valfri") .
+_:CELTE <course> _:SF1546 (year=2, kind="Valfri") .
+_:CELTE <course> _:SF1662 (year=2, kind="Valfri") .
+_:CELTE <course> _:SF1691 (year=2, kind="Valfri") .
+_:CELTE <course> _:SF1861 (year=2, kind="Valfri") .
+_:CELTE <course> _:SK1119 (year=2, kind="Valfri") .
+_:CELTE <course> _:EF112X (year=3) .
+_:CELTE <course> _:EH1110 (year=3) .
+_:CELTE <course> _:EJ1200 (year=3) .
+_:CELTE <course> _:EK1191 (year=3) .
+_:CELTE <course> _:EL1000 (year=3) .
+_:CELTE <course> _:EQ1270 (year=3) .
+_:CELTE <course> _:IE1207 (year=3) .
+_:CELTE <course> _:DD1320 (year=3, kind="Valfri") .
+_:CELTE <course> _:DD1388 (year=3, kind="Valfri") .
+_:CELTE <course> _:EI1222 (year=3, kind="Valfri") .
+_:CELTE <course> _:IH1611 (year=3, kind="Valfri") .
+_:CELTE <course> _:SF1547 (year=3, kind="Valfri") .
+_:CELTE <course> _:SF1662 (year=3, kind="Valfri") .
+_:CELTE <course> _:SF1691 (year=3, kind="Valfri") .
+_:CELTE <course> _:SF1861 (year=3, kind="Valfri") .
+_:CELTE <course> _:SK1119 (year=3, kind="Valfri") .
+_:CELTE <course> _:EI1222 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1647 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1628 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SI1141 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IF1614 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1647 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1861 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1546 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EI1222 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IF1614 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1628 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1546 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IF1614 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1388 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1347 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1628 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1662 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1388 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1347 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1388 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1347 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1628 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IF1614 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IH1611 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1320 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1388 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1647 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1861 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1628 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:IF1614 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SI1141 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SI1151 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1320 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1662 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EI1222 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1320 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1388 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:DD1320 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:EP1100 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1662 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1647 (year=3, kind="Rekomenderad") .
+_:CELTE <course> _:SF1861 (year=3, kind="Rekomenderad") .
+_:CENMI <course> _:AG1808 (year=1) .
+_:CENMI <course> _:KA1020 (year=1) .
+_:CENMI <course> _:MJ1508 (year=1) .
+_:CENMI <course> _:SF1624 (year=1) .
+_:CENMI <course> _:SF1625 (year=1) .
+_:CENMI <course> _:SF1626 (year=1) .
+_:CENMI <course> _:SG1102 (year=1) .
+_:CENMI <course> _:SK1110 (year=1) .
+_:CENMI <course> _:AE1502 (year=2) .
+_:CENMI <course> _:EI1120 (year=2) .
+_:CENMI <course> _:KE1060 (year=2) .
+_:CENMI <course> _:MJ1112 (year=2) .
+_:CENMI <course> _:MJ1145 (year=2) .
+_:CENMI <course> _:SF1519 (year=2) .
+_:CENMI <course> _:SF1633 (year=2) .
+_:CENMI <course> _:SF1917 (year=2) .
+_:CENMI <course> _:AG1812 (year=3) .
+_:CENMI <course> _:AK2207 (year=3) .
+_:CENMI <course> _:MJ153X (year=3) .
+_:CFATE <course> _:SD1001 (year=1) .
+_:CFATE <course> _:SF1626 (year=1) .
+_:CFATE <course> _:SF1668 (year=1) .
+_:CFATE <course> _:SF1675 (year=1) .
+_:CFATE <course> _:SG1132 (year=1) .
+_:CFATE <course> _:SK1112 (year=1) .
+_:CFATE <course> _:MF1024 (year=2) .
+_:CFATE <course> _:SD1120 (year=2) .
+_:CFATE <course> _:SE1010 (year=2) .
+_:CFATE <course> _:SF1682 (year=2) .
+_:CFATE <course> _:SG1140 (year=2) .
+_:CFATE <course> _:SG1216 (year=2) .
+_:CFATE <course> _:SG1217 (year=2) .
+_:CFATE <course> _:EL1010 (year=3) .
+_:CFATE <course> _:MF1017 (year=3) .
+_:CFATE <course> _:SD2125 (year=3) .
+_:CFATE <course> _:SE1025 (year=3) .
+_:CFATE <course> _:SF1861 (year=3) .
+_:CFATE <course> _:SF1914 (year=3) .
+_:CFATE <course> _:MF130X (year=3, kind="Valfri") .
+_:CFATE <course> _:MF131X (year=3, kind="Valfri") .
+_:CFATE <course> _:MF133X (year=3, kind="Valfri") .
+_:CFATE <course> _:MJ146X (year=3, kind="Valfri") .
+_:CFATE <course> _:SA115X (year=3, kind="Valfri") .
+_:CINEK <course> _:DD1315 (year=1) .
+_:CINEK <course> _:ME1306 (year=1) .
+_:CINEK <course> _:ME1314 (year=1) .
+_:CINEK <course> _:ME1315 (year=1) .
+_:CINEK <course> _:SF1624 (year=1) .
+_:CINEK <course> _:SF1625 (year=1) .
+_:CINEK <course> _:SF1626 (year=1) .
+_:CINEK <course> _:SG1109 (year=1) .
+_:CINEK <course> _:SF0003 (year=1, kind="Valfri") .
+_:CINEK <course> _:DD1320 (year=2, track="DKOI") .
+_:CINEK <course> _:DD1377 (year=2, track="DKOI") .
+_:CINEK <course> _:DH1620 (year=2, track="DKOI") .
+_:CINEK <course> _:ME1308 (year=2, track="DKOI") .
+_:CINEK <course> _:ME1309 (year=2, track="DKOI") .
+_:CINEK <course> _:ME1316 (year=2, track="DKOI") .
+_:CINEK <course> _:SF1545 (year=2, track="DKOI") .
+_:CINEK <course> _:SF1633 (year=2, track="DKOI") .
+_:CINEK <course> _:SF1918 (year=2, track="DKOI") .
+_:CINEK <course> _:SK1110 (year=2, track="DKOI") .
+_:CINEK <course> _:ME1316 (year=2, track="DKOI") .
+_:CINEK <course> _:DD1334 (year=3, track="DKOI") .
+_:CINEK <course> _:DD1385 (year=3, track="DKOI") .
+_:CINEK <course> _:DD1389 (year=3, track="DKOI") .
+_:CINEK <course> _:DD1396 (year=3, track="DKOI") .
+_:CINEK <course> _:DD1418 (year=3, track="DKOI") .
+_:CINEK <course> _:DD2418 (year=3, track="DKOI") .
+_:CINEK <course> _:ME1310 (year=3, track="DKOI") .
+_:CINEK <course> _:ME1311 (year=3, track="DKOI") .
+_:CINEK <course> _:ME1313 (year=3, track="DKOI") .
+_:CINEK <course> _:ME1308 (year=2, track="EHUI") .
+_:CINEK <course> _:ME1309 (year=2, track="EHUI") .
+_:CINEK <course> _:ME1316 (year=2, track="EHUI") .
+_:CINEK <course> _:MJ1112 (year=2, track="EHUI") .
+_:CINEK <course> _:MJ1145 (year=2, track="EHUI") .
+_:CINEK <course> _:SF1545 (year=2, track="EHUI") .
+_:CINEK <course> _:SF1633 (year=2, track="EHUI") .
+_:CINEK <course> _:SF1918 (year=2, track="EHUI") .
+_:CINEK <course> _:SK1110 (year=2, track="EHUI") .
+_:CINEK <course> _:EG2205 (year=3, track="EHUI") .
+_:CINEK <course> _:ME1310 (year=3, track="EHUI") .
+_:CINEK <course> _:ME1311 (year=3, track="EHUI") .
+_:CINEK <course> _:ME1313 (year=3, track="EHUI") .
+_:CINEK <course> _:MF1017 (year=3, track="EHUI") .
+_:CINEK <course> _:MJ1141 (year=3, track="EHUI") .
+_:CINEK <course> _:MJ1401 (year=3, track="EHUI") .
+_:CINEK <course> _:MJ146X (year=3, track="EHUI") .
+_:CINEK <course> _:ME1308 (year=2, track="PFRI") .
+_:CINEK <course> _:ME1309 (year=2, track="PFRI") .
+_:CINEK <course> _:ME1316 (year=2, track="PFRI") .
+_:CINEK <course> _:MF1016 (year=2, track="PFRI") .
+_:CINEK <course> _:MF1039 (year=2, track="PFRI") .
+_:CINEK <course> _:MG1028 (year=2, track="PFRI") .
+_:CINEK <course> _:SF1545 (year=2, track="PFRI") .
+_:CINEK <course> _:SF1633 (year=2, track="PFRI") .
+_:CINEK <course> _:SF1918 (year=2, track="PFRI") .
+_:CINEK <course> _:SK1110 (year=2, track="PFRI") .
+_:CINEK <course> _:DD1320 (year=3, track="PFRI") .
+_:CINEK <course> _:DD1324 (year=3, track="PFRI") .
+_:CINEK <course> _:EL1010 (year=3, track="PFRI") .
+_:CINEK <course> _:ME1310 (year=3, track="PFRI") .
+_:CINEK <course> _:ME1311 (year=3, track="PFRI") .
+_:CINEK <course> _:ME1313 (year=3, track="PFRI") .
+_:CINEK <course> _:MG1002 (year=3, track="PFRI") .
+_:CINEK <course> _:MG1026 (year=3, track="PFRI") .
+_:CINEK <course> _:MG115X (year=3, track="PFRI") .
+_:CINEK <course> _:DD1320 (year=2, track="TMAI") .
+_:CINEK <course> _:ME1308 (year=2, track="TMAI") .
+_:CINEK <course> _:ME1309 (year=2, track="TMAI") .
+_:CINEK <course> _:ME1316 (year=2, track="TMAI") .
+_:CINEK <course> _:SF1545 (year=2, track="TMAI") .
+_:CINEK <course> _:SF1633 (year=2, track="TMAI") .
+_:CINEK <course> _:SF1904 (year=2, track="TMAI") .
+_:CINEK <course> _:SF1918 (year=2, track="TMAI") .
+_:CINEK <course> _:SF2701 (year=2, track="TMAI") .
+_:CINEK <course> _:SK1110 (year=2, track="TMAI") .
+_:CINEK <course> _:ME1310 (year=3, track="TMAI") .
+_:CINEK <course> _:ME1311 (year=3, track="TMAI") .
+_:CINEK <course> _:ME1313 (year=3, track="TMAI") .
+_:CINEK <course> _:SF100X (year=3, track="TMAI") .
+_:CINEK <course> _:SF1811 (year=3, track="TMAI") .
+_:CINEK <course> _:SF2863 (year=3, track="TMAI") .
+_:CINEK <course> _:SF2930 (year=3, track="TMAI") .
+_:CINEK <course> _:SF2940 (year=3, track="TMAI") .
+_:CINTE <course> _:ID1018 (year=1) .
+_:CINTE <course> _:II1304 (year=1) .
+_:CINTE <course> _:IS1200 (year=1) .
+_:CINTE <course> _:SF1610 (year=1) .
+_:CINTE <course> _:IE1204 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:IE1206 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:SF1624 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:SF1625 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:SF1689 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:ME1003 (year=1, kind="Villkorligt valfri") .
+_:CINTE <course> _:ID1019 (year=2) .
+_:CINTE <course> _:II1304 (year=2) .
+_:CINTE <course> _:IK1203 (year=2) .
+_:CINTE <course> _:DD1351 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:ID1020 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:II1305 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:IV1303 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:ME1003 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:SF1626 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:SK1118 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:ME1003 (year=2, kind="Villkorligt valfri") .
+_:CINTE <course> _:AG1815 (year=3) .
+_:CINTE <course> _:ID1206 (year=3) .
+_:CINTE <course> _:II1304 (year=3) .
+_:CINTE <course> _:II143X (year=3) .
+_:CINTE <course> _:SF1912 (year=3) .
+_:CINTE <course> _:DD2350 (year=3, kind="Valfri") .
+_:CINTE <course> _:DD2352 (year=3, kind="Valfri") .
+_:CINTE <course> _:DD2372 (year=3, kind="Valfri") .
+_:CINTE <course> _:DD2401 (year=3, kind="Valfri") .
+_:CINTE <course> _:EL1000 (year=3, kind="Valfri") .
+_:CINTE <course> _:EQ1110 (year=3, kind="Valfri") .
+_:CINTE <course> _:EQ1120 (year=3, kind="Valfri") .
+_:CINTE <course> _:IC1007 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID1212 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID1214 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID1217 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID1354 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID2201 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID2202 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID2213 (year=3, kind="Valfri") .
+_:CINTE <course> _:ID2216 (year=3, kind="Valfri") .
+_:CINTE <course> _:IE1202 (year=3, kind="Valfri") .
+_:CINTE <course> _:IH1611 (year=3, kind="Valfri") .
+_:CINTE <course> _:IK1552 (year=3, kind="Valfri") .
+_:CINTE <course> _:IK2206 (year=3, kind="Valfri") .
+_:CINTE <course> _:IS2202 (year=3, kind="Valfri") .
+_:CINTE <course> _:IV1013 (year=3, kind="Valfri") .
+_:CINTE <course> _:IV1350 (year=3, kind="Valfri") .
+_:CINTE <course> _:IV1351 (year=3, kind="Valfri") .
+_:CINTE <course> _:ME2015 (year=3, kind="Valfri") .
+_:CINTE <course> _:ME2063 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1545 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1546 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1547 (year=3, kind="Valfri") .
+_:CINTE <course> _:SG1102 (year=3, kind="Valfri") .
+_:CINTE <course> _:SH1011 (year=3, kind="Valfri") .
+_:CINTE <course> _:DD1351 (year=3, kind="Villkorligt valfri") .
+_:CINTE <course> _:ME1003 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1624 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1625 (year=3, kind="Valfri") .
+_:CINTE <course> _:SF1626 (year=3, kind="Valfri") .
+_:CINTE <course> _:SK1118 (year=3, kind="Valfri") .
+_:CITEH <course> _:ML1500 (year=1) .
+_:CITEH <course> _:ML1501 (year=1) .
+_:CITEH <course> _:ML1502 (year=1) .
+_:CITEH <course> _:SF1624 (year=1) .
+_:CITEH <course> _:SF1625 (year=1) .
+_:CITEH <course> _:SF1626 (year=1) .
+_:CITEH <course> _:SG1117 (year=1) .
+_:CITEH <course> _:SK1117 (year=1) .
+_:CITEH <course> _:DD1310 (year=2) .
+_:CITEH <course> _:ME1003 (year=2) .
+_:CITEH <course> _:MJ1112 (year=2) .
+_:CITEH <course> _:ML1018 (year=2) .
+_:CITEH <course> _:ML1503 (year=2) .
+_:CITEH <course> _:ML1504 (year=2) .
+_:CITEH <course> _:ML1505 (year=2) .
+_:CITEH <course> _:SF1546 (year=2) .
+_:CITEH <course> _:SF1633 (year=2) .
+_:CITEH <course> _:DD1320 (year=3) .
+_:CITEH <course> _:ML1507 (year=3) .
+_:CITEH <course> _:ML1508 (year=3) .
+_:CITEH <course> _:ML150X (year=3) .
+_:CITEH <course> _:SF1811 (year=3) .
+_:CLGYM <course> _:DD1312 (year=1) .
+_:CLGYM <course> _:DIK200 (year=1) .
+_:CLGYM <course> _:ED1100 (year=1) .
+_:CLGYM <course> _:MJ1530 (year=1) .
+_:CLGYM <course> _:SF1661 (year=1) .
+_:CLGYM <course> _:SF1662 (year=1) .
+_:CLGYM <course> _:UMK212 (year=1) .
+_:CLGYM <course> _:UCK300 (year=2) .
+_:CLGYM <course> _:UMK310 (year=2) .
+_:CLGYM <course> _:LT1022 (year=3) .
+_:CLGYM <course> _:ME2084 (year=3) .
+_:CLGYM <course> _:EH2070 (year=4) .
+_:CLGYM <course> _:MJ2612 (year=4) .
+_:CLGYM <course> _:SF2717 (year=4) .
+_:CLGYM <course> _:UMK701 (year=4) .
+_:CLGYM <course> _:UMK802 (year=4) .
+_:CLGYM <course> _:AK2055 (year=5) .
+_:CLGYM <course> _:LT200X (year=5) .
+_:CLGYM <course> _:SF2719 (year=5) .
+_:CLGYM <course> _:UMK803 (year=5) .
+_:CLGYM <course> _:UQK701 (year=5) .
+_:CLGYM <course> _:SF1672 (year=2, track="MAFY") .
+_:CLGYM <course> _:SF1673 (year=2, track="MAFY") .
+_:CLGYM <course> _:SF1674 (year=2, track="MAFY") .
+_:CLGYM <course> _:SG1112 (year=2, track="MAFY") .
+_:CLGYM <course> _:SI1122 (year=2, track="MAFY") .
+_:CLGYM <course> _:SI1146 (year=2, track="MAFY") .
+_:CLGYM <course> _:SK1104 (year=2, track="MAFY") .
+_:CLGYM <course> _:UCK300 (year=2, track="MAFY") .
+_:CLGYM <course> _:EI1260 (year=3, track="MAFY") .
+_:CLGYM <course> _:LT1022 (year=3, track="MAFY") .
+_:CLGYM <course> _:ME2084 (year=3, track="MAFY") .
+_:CLGYM <course> _:SF1544 (year=3, track="MAFY") .
+_:CLGYM <course> _:SF1629 (year=3, track="MAFY") .
+_:CLGYM <course> _:SF1901 (year=3, track="MAFY") .
+_:CLGYM <course> _:SG1113 (year=3, track="MAFY") .
+_:CLGYM <course> _:SH1013 (year=3, track="MAFY") .
+_:CLGYM <course> _:SI1140 (year=3, track="MAFY") .
+_:CLGYM <course> _:EH2070 (year=4, track="MAFY") .
+_:CLGYM <course> _:EI1260 (year=4, track="MAFY") .
+_:CLGYM <course> _:MJ2612 (year=4, track="MAFY") .
+_:CLGYM <course> _:SF2717 (year=4, track="MAFY") .
+_:CLGYM <course> _:SH1013 (year=4, track="MAFY") .
+_:CLGYM <course> _:UMK802 (year=4, track="MAFY") .
+_:CLGYM <course> _:ED2200 (year=4, track="MAFY") .
+_:CLGYM <course> _:EF2200 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:EF2240 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:HL2003 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:IM2601 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:IM2661 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SE1005 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF1628 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF1677 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF1678 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF2701 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF2832 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF2930 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SF2940 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SG2150 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SG2211 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SG2214 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SG2215 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SI1151 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SI2400 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SI2540 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2300 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2301 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2320 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2411 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2511 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2520 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:SK2531 (year=4, kind="Villkorligt valfri", track="MAFY") .
+_:CLGYM <course> _:AK2055 (year=5, track="MAFY") .
+_:CLGYM <course> _:LT200X (year=5, track="MAFY") .
+_:CLGYM <course> _:SF2719 (year=5, track="MAFY") .
+_:CLGYM <course> _:UMK803 (year=5, track="MAFY") .
+_:CLGYM <course> _:UQK701 (year=5, track="MAFY") .
+_:CLGYM <course> _:KA1040 (year=2, track="MAKE") .
+_:CLGYM <course> _:KD1230 (year=2, track="MAKE") .
+_:CLGYM <course> _:KD1290 (year=2, track="MAKE") .
+_:CLGYM <course> _:KE1150 (year=2, track="MAKE") .
+_:CLGYM <course> _:SF1624 (year=2, track="MAKE") .
+_:CLGYM <course> _:SF1625 (year=2, track="MAKE") .
+_:CLGYM <course> _:SF1626 (year=2, track="MAKE") .
+_:CLGYM <course> _:UCK300 (year=2, track="MAKE") .
+_:CLGYM <course> _:UCK310 (year=2, track="MAKE") .
+_:CLGYM <course> _:KA1040 (year=3, track="MAKE") .
+_:CLGYM <course> _:KD1070 (year=3, track="MAKE") .
+_:CLGYM <course> _:KD1080 (year=3, track="MAKE") .
+_:CLGYM <course> _:KE1160 (year=3, track="MAKE") .
+_:CLGYM <course> _:LT1022 (year=3, track="MAKE") .
+_:CLGYM <course> _:ME2084 (year=3, track="MAKE") .
+_:CLGYM <course> _:SF1546 (year=3, track="MAKE") .
+_:CLGYM <course> _:SF1633 (year=3, track="MAKE") .
+_:CLGYM <course> _:SF1901 (year=3, track="MAKE") .
+_:CLGYM <course> _:EH2070 (year=4, track="MAKE") .
+_:CLGYM <course> _:MJ2612 (year=4, track="MAKE") .
+_:CLGYM <course> _:SF2717 (year=4, track="MAKE") .
+_:CLGYM <course> _:SF2718 (year=4, track="MAKE") .
+_:CLGYM <course> _:UMK701 (year=4, track="MAKE") .
+_:CLGYM <course> _:UMK802 (year=4, track="MAKE") .
+_:CLGYM <course> _:AK2055 (year=5, track="MAKE") .
+_:CLGYM <course> _:BB1050 (year=5, track="MAKE") .
+_:CLGYM <course> _:LT200X (year=5, track="MAKE") .
+_:CLGYM <course> _:SF2719 (year=5, track="MAKE") .
+_:CLGYM <course> _:UMK803 (year=5, track="MAKE") .
+_:CLGYM <course> _:UQK701 (year=5, track="MAKE") .
+_:CLGYM <course> _:AE1503 (year=2, track="TEMI") .
+_:CLGYM <course> _:MJ1508 (year=2, track="TEMI") .
+_:CLGYM <course> _:SF1546 (year=2, track="TEMI") .
+_:CLGYM <course> _:SF1624 (year=2, track="TEMI") .
+_:CLGYM <course> _:SF1625 (year=2, track="TEMI") .
+_:CLGYM <course> _:SF1626 (year=2, track="TEMI") .
+_:CLGYM <course> _:SG1102 (year=2, track="TEMI") .
+_:CLGYM <course> _:UCK300 (year=2, track="TEMI") .
+_:CLGYM <course> _:UCK310 (year=2, track="TEMI") .
+_:CLGYM <course> _:KE1060 (year=3, track="TEMI") .
+_:CLGYM <course> _:LT1022 (year=3, track="TEMI") .
+_:CLGYM <course> _:ME2084 (year=3, track="TEMI") .
+_:CLGYM <course> _:MJ1112 (year=3, track="TEMI") .
+_:CLGYM <course> _:MJ1145 (year=3, track="TEMI") .
+_:CLGYM <course> _:MJ2615 (year=3, track="TEMI") .
+_:CLGYM <course> _:SF1633 (year=3, track="TEMI") .
+_:CLGYM <course> _:SF1910 (year=3, track="TEMI") .
+_:CLGYM <course> _:AK2209 (year=4, track="TEMI") .
+_:CLGYM <course> _:EH2070 (year=4, track="TEMI") .
+_:CLGYM <course> _:MJ2612 (year=4, track="TEMI") .
+_:CLGYM <course> _:SF2717 (year=4, track="TEMI") .
+_:CLGYM <course> _:SF2718 (year=4, track="TEMI") .
+_:CLGYM <course> _:UMK701 (year=4, track="TEMI") .
+_:CLGYM <course> _:UMK802 (year=4, track="TEMI") .
+_:CLGYM <course> _:AK2055 (year=5, track="TEMI") .
+_:CLGYM <course> _:LT200X (year=5, track="TEMI") .
+_:CLGYM <course> _:SF2719 (year=5, track="TEMI") .
+_:CLGYM <course> _:UMK803 (year=5, track="TEMI") .
+_:CLGYM <course> _:UQK701 (year=5, track="TEMI") .
+_:CLGYM <course> _:DD1325 (year=2, track="TIKT") .
+_:CLGYM <course> _:DD1380 (year=2, track="TIKT") .
+_:CLGYM <course> _:DH2624 (year=2, track="TIKT") .
+_:CLGYM <course> _:IS1500 (year=2, track="TIKT") .
+_:CLGYM <course> _:SF1624 (year=2, track="TIKT") .
+_:CLGYM <course> _:SF1625 (year=2, track="TIKT") .
+_:CLGYM <course> _:SF1626 (year=2, track="TIKT") .
+_:CLGYM <course> _:UCK300 (year=2, track="TIKT") .
+_:CLGYM <course> _:UCK310 (year=2, track="TIKT") .
+_:CLGYM <course> _:DD1361 (year=3, track="TIKT") .
+_:CLGYM <course> _:DD1368 (year=3, track="TIKT") .
+_:CLGYM <course> _:DD1392 (year=3, track="TIKT") .
+_:CLGYM <course> _:DD1395 (year=3, track="TIKT") .
+_:CLGYM <course> _:LT1022 (year=3, track="TIKT") .
+_:CLGYM <course> _:ME2084 (year=3, track="TIKT") .
+_:CLGYM <course> _:SF1514 (year=3, track="TIKT") .
+_:CLGYM <course> _:SF1629 (year=3, track="TIKT") .
+_:CLGYM <course> _:SF1901 (year=3, track="TIKT") .
+_:CLGYM <course> _:EH2070 (year=4, track="TIKT") .
+_:CLGYM <course> _:MJ2612 (year=4, track="TIKT") .
+_:CLGYM <course> _:SF2717 (year=4, track="TIKT") .
+_:CLGYM <course> _:UMK701 (year=4, track="TIKT") .
+_:CLGYM <course> _:UMK802 (year=4, track="TIKT") .
+_:CLGYM <course> _:DD1350 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD1352 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD1361 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD1396 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2352 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2385 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2395 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2418 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2429 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2440 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2442 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2447 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DD2448 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DH2320 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DH2323 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DH2408 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DM2518 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:DT2140 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:IK2218 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:MG2128 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF1628 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF1677 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF1678 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2520 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2701 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2718 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2832 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2930 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SF2940 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:SG1510 (year=4, kind="Villkorligt valfri", track="TIKT") .
+_:CLGYM <course> _:AK2055 (year=5, track="TIKT") .
+_:CLGYM <course> _:LT200X (year=5, track="TIKT") .
+_:CLGYM <course> _:SF2719 (year=5, track="TIKT") .
+_:CLGYM <course> _:UMK803 (year=5, track="TIKT") .
+_:CLGYM <course> _:UQK701 (year=5, track="TIKT") .
+_:CMAST <course> _:MJ1103 (year=1) .
+_:CMAST <course> _:SF1511 (year=1) .
+_:CMAST <course> _:SF1624 (year=1) .
+_:CMAST <course> _:SF1625 (year=1) .
+_:CMAST <course> _:SF1626 (year=1) .
+_:CMAST <course> _:SG1130 (year=1) .
+_:CMAST <course> _:SK1112 (year=1) .
+_:CMAST <course> _:ME1003 (year=2) .
+_:CMAST <course> _:MF1016 (year=2) .
+_:CMAST <course> _:MF1044 (year=2) .
+_:CMAST <course> _:MG1026 (year=2) .
+_:CMAST <course> _:MJ1112 (year=2) .
+_:CMAST <course> _:SE1010 (year=2) .
+_:CMAST <course> _:SF1633 (year=2) .
+_:CMAST <course> _:SG1140 (year=2) .
+_:CMAST <course> _:MG1028 (year=2, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF1045 (year=3) .
+_:CMAST <course> _:MH1004 (year=3) .
+_:CMAST <course> _:SF1915 (year=3) .
+_:CMAST <course> _:AL126X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF130X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF131X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF133X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MG110X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MJ146X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:SA118X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:EL1010 (year=3, track="AEE") .
+_:CMAST <course> _:MF1045 (year=3, track="AEE") .
+_:CMAST <course> _:MH1004 (year=3, track="AEE") .
+_:CMAST <course> _:SF1915 (year=3, track="AEE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="AEE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="AEE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:ME2015 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Rekomenderad", track="AEE") .
+_:CMAST <course> _:EL1010 (year=3, track="FOT") .
+_:CMAST <course> _:MF1045 (year=3, track="FOT") .
+_:CMAST <course> _:MH1004 (year=3, track="FOT") .
+_:CMAST <course> _:SF1915 (year=3, track="FOT") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="FOT") .
+_:CMAST <course> _:ME2015 (year=3, track="INE") .
+_:CMAST <course> _:ME2063 (year=3, track="INE") .
+_:CMAST <course> _:MF1045 (year=3, track="INE") .
+_:CMAST <course> _:MH1004 (year=3, track="INE") .
+_:CMAST <course> _:SF1915 (year=3, track="INE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="INE") .
+_:CMAST <course> _:LS1433 (year=2, track="INTF") .
+_:CMAST <course> _:LS1434 (year=2, track="INTF") .
+_:CMAST <course> _:MF1016 (year=2, track="INTF") .
+_:CMAST <course> _:MF1044 (year=2, track="INTF") .
+_:CMAST <course> _:MG1026 (year=2, track="INTF") .
+_:CMAST <course> _:MJ1112 (year=2, track="INTF") .
+_:CMAST <course> _:SE1010 (year=2, track="INTF") .
+_:CMAST <course> _:SG1140 (year=2, track="INTF") .
+_:CMAST <course> _:MG1028 (year=2, kind="Villkorligt valfri", track="INTF") .
+_:CMAST <course> _:ME1003 (year=3, track="INTF") .
+_:CMAST <course> _:SF1633 (year=3, track="INTF") .
+_:CMAST <course> _:LS1443 (year=2, track="INTS") .
+_:CMAST <course> _:LS1448 (year=2, track="INTS") .
+_:CMAST <course> _:MF1016 (year=2, track="INTS") .
+_:CMAST <course> _:MF1044 (year=2, track="INTS") .
+_:CMAST <course> _:MG1026 (year=2, track="INTS") .
+_:CMAST <course> _:MJ1112 (year=2, track="INTS") .
+_:CMAST <course> _:SE1010 (year=2, track="INTS") .
+_:CMAST <course> _:SG1140 (year=2, track="INTS") .
+_:CMAST <course> _:MG1028 (year=2, kind="Villkorligt valfri", track="INTS") .
+_:CMAST <course> _:ME1003 (year=3, track="INTS") .
+_:CMAST <course> _:SF1633 (year=3, track="INTS") .
+_:CMAST <course> _:LS1423 (year=2, track="INTT") .
+_:CMAST <course> _:LS1424 (year=2, track="INTT") .
+_:CMAST <course> _:MF1016 (year=2, track="INTT") .
+_:CMAST <course> _:MF1044 (year=2, track="INTT") .
+_:CMAST <course> _:MG1026 (year=2, track="INTT") .
+_:CMAST <course> _:MG1028 (year=2, track="INTT") .
+_:CMAST <course> _:MJ1112 (year=2, track="INTT") .
+_:CMAST <course> _:SE1010 (year=2, track="INTT") .
+_:CMAST <course> _:SG1140 (year=2, track="INTT") .
+_:CMAST <course> _:ME1003 (year=3, track="INTT") .
+_:CMAST <course> _:SF1633 (year=3, track="INTT") .
+_:CMAST <course> _:MF1045 (year=3, track="IPDE") .
+_:CMAST <course> _:MH1004 (year=3, track="IPDE") .
+_:CMAST <course> _:SF1915 (year=3, track="IPDE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="IPDE") .
+_:CMAST <course> _:EL1010 (year=3, track="IPUA") .
+_:CMAST <course> _:MF1045 (year=3, track="IPUA") .
+_:CMAST <course> _:MH1004 (year=3, track="IPUA") .
+_:CMAST <course> _:SF1915 (year=3, track="IPUA") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="IPUA") .
+_:CMAST <course> _:MF1045 (year=3, track="IPUB") .
+_:CMAST <course> _:MH1004 (year=3, track="IPUB") .
+_:CMAST <course> _:SF1915 (year=3, track="IPUB") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="IPUB") .
+_:CMAST <course> _:DD1321 (year=3, track="IPUC") .
+_:CMAST <course> _:EL1010 (year=3, track="IPUC") .
+_:CMAST <course> _:MF1045 (year=3, track="IPUC") .
+_:CMAST <course> _:MH1004 (year=3, track="IPUC") .
+_:CMAST <course> _:SF1915 (year=3, track="IPUC") .
+_:CMAST <course> _:ME2015 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:MG1002 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:MG1024 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:SD1116 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:SE1025 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:SG1217 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:SG1220 (year=3, kind="Rekomenderad", track="IPUC") .
+_:CMAST <course> _:ML1500 (year=1, track="ITSY") .
+_:CMAST <course> _:ML1501 (year=1, track="ITSY") .
+_:CMAST <course> _:ML1502 (year=1, track="ITSY") .
+_:CMAST <course> _:SF1624 (year=1, track="ITSY") .
+_:CMAST <course> _:SF1625 (year=1, track="ITSY") .
+_:CMAST <course> _:SF1626 (year=1, track="ITSY") .
+_:CMAST <course> _:SG1117 (year=1, track="ITSY") .
+_:CMAST <course> _:SK1117 (year=1, track="ITSY") .
+_:CMAST <course> _:DD1310 (year=2, track="ITSY") .
+_:CMAST <course> _:ME1003 (year=2, track="ITSY") .
+_:CMAST <course> _:MJ1112 (year=2, track="ITSY") .
+_:CMAST <course> _:ML1018 (year=2, track="ITSY") .
+_:CMAST <course> _:ML1503 (year=2, track="ITSY") .
+_:CMAST <course> _:ML1504 (year=2, track="ITSY") .
+_:CMAST <course> _:ML1505 (year=2, track="ITSY") .
+_:CMAST <course> _:SF1546 (year=2, track="ITSY") .
+_:CMAST <course> _:SF1633 (year=2, track="ITSY") .
+_:CMAST <course> _:DD1320 (year=3, track="ITSY") .
+_:CMAST <course> _:SF1811 (year=3, track="ITSY") .
+_:CMAST <course> _:MF1045 (year=3, track="MRS") .
+_:CMAST <course> _:MH1004 (year=3, track="MRS") .
+_:CMAST <course> _:SF1915 (year=3, track="MRS") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="MRS") .
+_:CMAST <course> _:MF1045 (year=3, track="MTH") .
+_:CMAST <course> _:MH1004 (year=3, track="MTH") .
+_:CMAST <course> _:SF1632 (year=3, track="MTH") .
+_:CMAST <course> _:SF1904 (year=3, track="MTH") .
+_:CMAST <course> _:SF1915 (year=3, track="MTH") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:SA118X (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="MTH") .
+_:CMAST <course> _:MF1045 (year=3, track="NEE") .
+_:CMAST <course> _:MH1004 (year=3, track="NEE") .
+_:CMAST <course> _:SF1915 (year=3, track="NEE") .
+_:CMAST <course> _:SH1012 (year=3, track="NEE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="NEE") .
+_:CMAST <course> _:MF1045 (year=3, track="PRM") .
+_:CMAST <course> _:MG1002 (year=3, track="PRM") .
+_:CMAST <course> _:MG1024 (year=3, track="PRM") .
+_:CMAST <course> _:MH1004 (year=3, track="PRM") .
+_:CMAST <course> _:SF1915 (year=3, track="PRM") .
+_:CMAST <course> _:DD1321 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:EL1010 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:ME2015 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:SD1116 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:SE1025 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:SG1217 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:SG1220 (year=3, kind="Rekomenderad", track="PRM") .
+_:CMAST <course> _:MF1045 (year=3, track="SUE") .
+_:CMAST <course> _:MH1004 (year=3, track="SUE") .
+_:CMAST <course> _:MJ1401 (year=3, track="SUE") .
+_:CMAST <course> _:SF1915 (year=3, track="SUE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:DD1320 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:EL1010 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:ME2015 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Rekomenderad", track="SUE") .
+_:CMAST <course> _:AL2113 (year=3, track="SUE") .
+_:CMAST <course> _:MF1045 (year=3, track="SUE") .
+_:CMAST <course> _:MH1004 (year=3, track="SUE") .
+_:CMAST <course> _:SF1915 (year=3, track="SUE") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="SUE") .
+_:CMAST <course> _:MF1045 (year=3, track="TEMA") .
+_:CMAST <course> _:MH1004 (year=3, track="TEMA") .
+_:CMAST <course> _:SF1915 (year=3, track="TEMA") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="TEMA") .
+_:CMAST <course> _:MF1045 (year=3, track="TEMB") .
+_:CMAST <course> _:MH1004 (year=3, track="TEMB") .
+_:CMAST <course> _:SE1025 (year=3, track="TEMB") .
+_:CMAST <course> _:SF1915 (year=3, track="TEMB") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:SD1116 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="TEMB") .
+_:CMAST <course> _:MF1045 (year=3, track="TEMC") .
+_:CMAST <course> _:MH1004 (year=3, track="TEMC") .
+_:CMAST <course> _:SD1116 (year=3, track="TEMC") .
+_:CMAST <course> _:SF1915 (year=3, track="TEMC") .
+_:CMAST <course> _:DD1321 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:EL1010 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:ME2015 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:MG1002 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:MG1024 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:SE1025 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:SG1217 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMAST <course> _:SG1220 (year=3, kind="Villkorligt valfri", track="TEMC") .
+_:CMATD <course> _:KD1260 (year=1) .
+_:CMATD <course> _:MH1070 (year=1) .
+_:CMATD <course> _:SF1624 (year=1) .
+_:CMATD <course> _:SF1625 (year=1) .
+_:CMATD <course> _:SF1626 (year=1) .
+_:CMATD <course> _:SG1120 (year=1) .
+_:CMATD <course> _:SK1117 (year=1) .
+_:CMATD <course> _:KF1050 (year=2) .
+_:CMATD <course> _:MH1020 (year=2) .
+_:CMATD <course> _:MH1024 (year=2) .
+_:CMATD <course> _:MH1025 (year=2) .
+_:CMATD <course> _:MH1027 (year=2) .
+_:CMATD <course> _:MH1028 (year=2) .
+_:CMATD <course> _:SE1020 (year=2) .
+_:CMATD <course> _:SF1518 (year=2) .
+_:CMATD <course> _:SF1633 (year=2) .
+_:CMATD <course> _:ME1003 (year=3) .
+_:CMATD <course> _:MH1018 (year=3) .
+_:CMATD <course> _:MH1022 (year=3) .
+_:CMATD <course> _:MH2017 (year=3) .
+_:CMATD <course> _:MH2050 (year=3) .
+_:CMEDT <course> _:HE1200 (year=1) .
+_:CMEDT <course> _:HI1200 (year=1) .
+_:CMEDT <course> _:HL1200 (year=1) .
+_:CMEDT <course> _:HL1201 (year=1) .
+_:CMEDT <course> _:HL1204 (year=1) .
+_:CMEDT <course> _:SF1624 (year=1) .
+_:CMEDT <course> _:SF1625 (year=1) .
+_:CMEDT <course> _:SG1102 (year=1) .
+_:CMEDT <course> _:SF0003 (year=1, kind="Valfri") .
+_:CMEDT <course> _:BB1010 (year=2) .
+_:CMEDT <course> _:HE1201 (year=2) .
+_:CMEDT <course> _:HI1201 (year=2) .
+_:CMEDT <course> _:HL1202 (year=2) .
+_:CMEDT <course> _:HL2015 (year=2) .
+_:CMEDT <course> _:SF1626 (year=2) .
+_:CMEDT <course> _:SF1923 (year=2) .
+_:CMEDT <course> _:SH1011 (year=2) .
+_:CMEDT <course> _:SK1114 (year=2) .
+_:CMEDT <course> _:EL1000 (year=3) .
+_:CMEDT <course> _:HF1201 (year=3) .
+_:CMEDT <course> _:HL103X (year=3) .
+_:CMEDT <course> _:HL1203 (year=3) .
+_:CMEDT <course> _:SF1632 (year=3, kind="Villkorligt valfri") .
+_:CMEDT <course> _:SF1633 (year=3, kind="Villkorligt valfri") .
+_:CMEDT <course> _:SF1682 (year=3, kind="Villkorligt valfri") .
+_:CMEDT <course> _:SF1683 (year=3, kind="Villkorligt valfri") .
+_:CMETE <course> _:DD1315 (year=1) .
+_:CMETE <course> _:DH1609 (year=1) .
+_:CMETE <course> _:DM1572 (year=1) .
+_:CMETE <course> _:DM1573 (year=1) .
+_:CMETE <course> _:DM1578 (year=1) .
+_:CMETE <course> _:MF1035 (year=1) .
+_:CMETE <course> _:SF1624 (year=1) .
+_:CMETE <course> _:SF1625 (year=1) .
+_:CMETE <course> _:SK1120 (year=1) .
+_:CMETE <course> _:AD1RD1 (year=2) .
+_:CMETE <course> _:DD1320 (year=2) .
+_:CMETE <course> _:DH1620 (year=2) .
+_:CMETE <course> _:DM1578 (year=2) .
+_:CMETE <course> _:DM1580 (year=2) .
+_:CMETE <course> _:DT1130 (year=2) .
+_:CMETE <course> _:DT1175 (year=2) .
+_:CMETE <course> _:SF1626 (year=2) .
+_:CMETE <course> _:SF1919 (year=2) .
+_:CMETE <course> _:SK1140 (year=2) .
+_:CMETE <course> _:DD1334 (year=3) .
+_:CMETE <course> _:DM128X (year=3) .
+_:CMETE <course> _:DM1578 (year=3) .
+_:CMETE <course> _:DD2423 (year=3, track="BVT") .
+_:CMETE <course> _:DM2905 (year=3, track="BVT") .
+_:CMETE <course> _:SK2376 (year=3, track="BVT") .
+_:CMETE <course> _:DD2310 (year=3, track="CPS") .
+_:CMETE <course> _:DD2352 (year=3, track="CPS") .
+_:CMETE <course> _:DD2385 (year=3, track="CPS") .
+_:CMETE <course> _:SF1662 (year=3, track="CPS") .
+_:CMETE <course> _:DH2642 (year=3, track="INMT") .
+_:CMETE <course> _:DM2517 (year=3, track="INMT") .
+_:CMETE <course> _:DM2518 (year=3, track="INMT") .
+_:CMETE <course> _:DT2112 (year=3, track="LJD") .
+_:CMETE <course> _:DT2213 (year=3, track="LJD") .
+_:CMETE <course> _:DT2410 (year=3, track="LJD") .
+_:COPEN <course> _:DD1310 (year=1) .
+_:COPEN <course> _:KD1000 (year=1) .
+_:COPEN <course> _:SF1502 (year=1) .
+_:COPEN <course> _:SF1546 (year=1) .
+_:COPEN <course> _:SF1624 (year=1) .
+_:COPEN <course> _:SF1625 (year=1) .
+_:COPEN <course> _:SF1626 (year=1) .
+_:COPEN <course> _:SG1133 (year=1) .
+_:COPEN <course> _:SK1115 (year=1) .
+_:CSAMH <course> _:AG1314 (year=1) .
+_:CSAMH <course> _:AI1128 (year=1) .
+_:CSAMH <course> _:AI1527 (year=1) .
+_:CSAMH <course> _:SF1516 (year=1) .
+_:CSAMH <course> _:SF1624 (year=1) .
+_:CSAMH <course> _:SF1625 (year=1) .
+_:CSAMH <course> _:SF1626 (year=1) .
+_:CSAMH <course> _:SF0003 (year=1, kind="Valfri") .
+_:CSAMH <course> _:AI1525 (year=2) .
+_:CSAMH <course> _:AI1802 (year=2) .
+_:CSAMH <course> _:AL1301 (year=2) .
+_:CSAMH <course> _:AL1302 (year=2) .
+_:CSAMH <course> _:SF1910 (year=2) .
+_:CSAMH <course> _:SG1117 (year=2) .
+_:CSAMH <course> _:AF1002 (year=2, kind="Villkorligt valfri") .
+_:CSAMH <course> _:AH1030 (year=2, kind="Villkorligt valfri") .
+_:CSAMH <course> _:SF1676 (year=2, kind="Villkorligt valfri") .
+_:CTFYS <course> _:DD1331 (year=1) .
+_:CTFYS <course> _:SF1672 (year=1) .
+_:CTFYS <course> _:SF1673 (year=1) .
+_:CTFYS <course> _:SF1674 (year=1) .
+_:CTFYS <course> _:SF1922 (year=1) .
+_:CTFYS <course> _:SG1112 (year=1) .
+_:CTFYS <course> _:SI1121 (year=1) .
+_:CTFYS <course> _:SI1146 (year=1) .
+_:CTFYS <course> _:SK1104 (year=1) .
+_:CTFYS <course> _:DD1301 (year=1, kind="Valfri") .
+_:CTFYS <course> _:DD1327 (year=2) .
+_:CTFYS <course> _:SE1055 (year=2) .
+_:CTFYS <course> _:SF1544 (year=2) .
+_:CTFYS <course> _:SF1681 (year=2) .
+_:CTFYS <course> _:SF1683 (year=2) .
+_:CTFYS <course> _:SG1113 (year=2) .
+_:CTFYS <course> _:SH1014 (year=2) .
+_:CTFYS <course> _:SI1155 (year=2) .
+_:CTFYS <course> _:SI1200 (year=2) .
+_:CTFYS <course> _:SK1105 (year=2) .
+_:CTFYS <course> _:EI1320 (year=3) .
+_:CTFYS <course> _:EL1000 (year=3) .
+_:CTFYS <course> _:SA114X (year=3) .
+_:CTFYS <course> _:SG1218 (year=3) .
+_:CTFYS <course> _:SH1015 (year=3) .
+_:CTFYS <course> _:SI1336 (year=3) .
+_:CTKEM <course> _:KA1030 (year=1) .
+_:CTKEM <course> _:KD1230 (year=1) .
+_:CTKEM <course> _:KD1280 (year=1) .
+_:CTKEM <course> _:KE1140 (year=1) .
+_:CTKEM <course> _:ME1402 (year=1) .
+_:CTKEM <course> _:SF1624 (year=1) .
+_:CTKEM <course> _:SF1625 (year=1) .
+_:CTKEM <course> _:SF1626 (year=1) .
+_:CTKEM <course> _:KE0110 (year=1, kind="Valfri") .
+_:CTKEM <course> _:SF0003 (year=1, kind="Valfri") .
+_:CTKEM <course> _:KA1030 (year=2) .
+_:CTKEM <course> _:KD1070 (year=2) .
+_:CTKEM <course> _:KD1080 (year=2) .
+_:CTKEM <course> _:KE1160 (year=2) .
+_:CTKEM <course> _:KE1170 (year=2) .
+_:CTKEM <course> _:SF1520 (year=2) .
+_:CTKEM <course> _:SF1633 (year=2) .
+_:CTKEM <course> _:SK1151 (year=2) .
+_:CTKEM <course> _:KD1270 (year=2, kind="Villkorligt valfri") .
+_:CTKEM <course> _:KE1185 (year=2, kind="Villkorligt valfri") .
+_:CTKEM <course> _:BB1050 (year=3) .
+_:CTKEM <course> _:KA1015 (year=3) .
+_:CTKEM <course> _:KA103X (year=3) .
+_:CTKEM <course> _:KE1175 (year=3) .
+_:CTKEM <course> _:KF1165 (year=3) .
+_:CTKEM <course> _:SF1521 (year=3) .
+_:CTKEM <course> _:KD1270 (year=3) .
+_:CTKEM <course> _:KE1185 (year=3) .
+_:CTKEM <course> _:KD1270 (year=3, kind="Villkorligt valfri") .
+_:CTKEM <course> _:KE1185 (year=3, kind="Villkorligt valfri") .
+_:CTKEM <course> _:BB1190 (year=3, kind="Villkorligt valfri") .
+_:CDATE <master> _:embedded .
+_:CDATE <master> _:infoNet .
+_:CDATE <master> _:medical .
+_:CDATE <master> _:sysConRob .
+_:CDATE <master> _:appCompMath .
+_:CDATE <master> _:indManage .
+_:CDATE <master> _:comsys .
+_:CDATE <master> _:compsci .
+_:CDATE <master> _:ictInno .
+_:CDATE <master> _:interMediaTech .
+_:CDATE <master> _:machLearn .
+_:CDATE <master> _:softDist .

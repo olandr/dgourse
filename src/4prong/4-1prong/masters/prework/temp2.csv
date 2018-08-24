@@ -1,0 +1,44 @@
+_:archLD <name> "Architectural Lighting Design" .
+_:arch <name> "Architecture" .
+_:civarch <name> "Civil and Architectural Engineering" .
+_:envSust <name> "Environmental Engineering and Sustainable Infrastructure" .
+_:supd <name> "Sustainable Urban Planning and Design" .
+_:transGeo <name> "Transport and Geoinformation Technology" .
+_:urban <name> "Urbanism Studies" .
+_:electricPower <name> "Electric Power" .
+_:electroFusionSpace <name> "Electromagnetics, Fusion and Space Engineering" .
+_:embedded <name> "Embedded Systems" .
+_:infoNet <name> "Information and Network Engineering" .
+_:medical <name> "Medical Engineering" .
+_:nanotech <name> "Nanotechnology" .
+_:sysConRob <name> "Systems, Control and Robotics" .
+_:appCompMath <name> "Applied and Computational Mathematics" .
+_:physics <name> "Engineering Physics" .
+_:nuke <name> "Nuclear Energy Engineering" .
+_:sustainEE <name> "Sustainable Energy Engineering" .
+_:sustainTech <name> "Sustainable Technology" .
+_:entManage <name> "Entrepreneurship Innovation Management" .
+_:indManage <name> "Industrial management" .
+_:comsys <name> "Communication Systems" .
+_:compsci <name> "Computer Science" .
+_:ictInno <name> "ICT innovation" .
+_:interMediaTech <name> "Interactive Media Technology" .
+_:machLearn <name> "Machine Learning" .
+_:mediaManage <name> "Media Management" .
+_:softDist <name> "Software Engineering of Distributed Systems" .
+_:energyEnviro <name> "Chemical Engineering for Energy and Environment" .
+_:industrialBio <name> "Industrial and Environmental Biotechnology" .
+_:macromolecular <name> "Macromolecular Materials" .
+_:medicalBio <name> "Medical Biotechnology" .
+_:molecularscience <name> "Molecular Science and Engineering" .
+_:engMaterials <name> "Engineering Materials Science" .
+_:aerospace <name> "Aerospace engineering" .
+_:engDesign <name> "Engingering design" .
+_:engMech <name> "Engineering mechanics" .
+_:navalArch <name> "Navalarchitecture" .
+_:prodEngMange <name> "Production engineering management" .
+_:railway <name> "Railway Engineering" .
+_:techWorkHealth <name> "Technology, Work and Health" .
+_:vehicleEng <name> "Vehicle Engineering" .
+_:realestate <name> "Real Estate and Construction Management" .
+_:math <name> "Mathematics" .

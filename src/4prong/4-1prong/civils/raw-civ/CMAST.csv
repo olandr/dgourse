@@ -1,0 +1,63 @@
+_:CMAST <track> _:cmastITSY .
+_:CMAST <track> _:cmastINTT .
+_:CMAST <track> _:cmastINTF .
+_:CMAST <track> _:cmastINTS .
+_:cmastITSY <name> "Industriell inriktning, och hållbarhet" .
+_:cmastINTT <name> "Internationell inriktning, tyska" .
+_:cmastINTF <name> "Internationell inriktning, franska" .
+_:cmastINTS <name> "Internationell inriktning, spanska" .
+_:CMAST <course> _:SF1513 (year=1) .
+_:CMAST <course> _:SF1624 (year=1, kind="Valfri") .
+_:CMAST <course> _:SF1625 (year=1, kind="Valfri") .
+_:CMAST <course> _:SF1626 (year=1, kind="Valfri") .
+_:CMAST <course> _:SG1120 (year=1) .
+_:CMAST <course> _:SK1112 (year=1) .
+_:CMAST <course> _:ME1003 (year=2, kind="Valfri") .
+_:CMAST <course> _:MF1017 (year=2, kind="Valfri") .
+_:CMAST <course> _:MF1044 (year=2, kind="Valfri") .
+_:CMAST <course> _:MG1026 (year=2, kind="Valfri") .
+_:CMAST <course> _:MG1028 (year=2, kind="Valfri") .
+_:CMAST <course> _:MJ1112 (year=2, kind="Valfri") .
+_:CMAST <course> _:SE1010 (year=2, kind="Valfri") .
+_:CMAST <course> _:SF1633 (year=2, kind="Valfri") .
+_:CMAST <course> _:SG1140 (year=2, kind="Valfri") .
+_:CMAST <course> _:AL126X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:DD1320 (year=3, kind="Valfri") .
+_:CMAST <course> _:DD1321 (year=3, kind="Valfri") .
+_:CMAST <course> _:EL1010 (year=3, kind="Valfri") .
+_:CMAST <course> _:ME2015 (year=3, kind="Valfri") .
+_:CMAST <course> _:MF1045 (year=3, kind="Valfri") .
+_:CMAST <course> _:MF130X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF131X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MF133X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MG1002 (year=3, kind="Valfri") .
+_:CMAST <course> _:MG1024 (year=3, kind="Valfri") .
+_:CMAST <course> _:MG110X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:MH1004 (year=3, kind="Valfri") .
+_:CMAST <course> _:MJ1401 (year=3, kind="Valfri") .
+_:CMAST <course> _:MJ146X (year=3, kind="Villkorligt valfri") .
+_:CMAST <course> _:SA118X (year=3, kind="Valfri") .
+_:CMAST <course> _:SD1116 (year=3, kind="Valfri") .
+_:CMAST <course> _:SE1025 (year=3, kind="Valfri") .
+_:CMAST <course> _:SF1915 (year=3, kind="Valfri") .
+_:CMAST <course> _:SG1217 (year=3, kind="Valfri") .
+_:CMAST <course> _:SG1220 (year=3, kind="Valfri") .
+_:CMAST <course> _:MJ1103 (year=1) .
+_:cmastITSY <course> _:ML1500 (year=1, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML1501 (year=1, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML1502 (year=1, kind="Obligatorisk") .
+_:cmastITSY <course> _:SG1117 (year=1, kind="Obligatorisk") .
+_:cmastITSY <course> _:SK1110 (year=1, kind="Obligatorisk") .
+_:cmastITSY <course> _:DD1310 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML1018 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML1503 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML1505 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:ML2112 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:SF1544 (year=2, kind="Obligatorisk") .
+_:cmastITSY <course> _:SF1861 (year=3, kind="Obligatorisk") .
+_:cmastINTT <course> _:LS1423 (year=2, kind="Obligatorisk") .
+_:cmastINTT <course> _:LS1424 (year=2, kind="Obligatorisk") .
+_:cmastINTF <course> _:LS1433 (year=2, kind="Obligatorisk") .
+_:cmastINTF <course> _:LS1434 (year=2, kind="Obligatorisk") .
+_:cmastINTS <course> _:LS1443 (year=2, kind="Obligatorisk") .
+_:cmastINTS <course> _:LS1448 (year=2, kind="Obligatorisk") .

@@ -1,0 +1,41 @@
+_:cmeteLJD <name> "Ljud" .
+_:cmeteBVT <name> "Bild- och videoteknik" .
+_:cmeteCPS <name> "Datalogi" .
+_:cmeteINMT <name> "Interaktiv medieteknik" .
+_:CMETE <track> _:cmeteLJD .
+_:CMETE <track> _:cmeteBVT .
+_:CMETE <track> _:cmeteCPS .
+_:CMETE <track> _:cmeteINMT .
+_:CMETE <course> _:DD1315 (year=1) .
+_:CMETE <course> _:DH1609 (year=1) .
+_:CMETE <course> _:DM1572 (year=1) .
+_:CMETE <course> _:DM1573 (year=1) .
+_:CMETE <course> _:DM1578 (year=123) .
+_:CMETE <course> _:MF1035 (year=1) .
+_:CMETE <course> _:SF1624 (year=1) .
+_:CMETE <course> _:SF1625 (year=1) .
+_:CMETE <course> _:SK1120 (year=1) .
+_:CMETE <course> _:AD1RD1 (year=2) .
+_:CMETE <course> _:DD1320 (year=2) .
+_:CMETE <course> _:DH2620 (year=2) .
+_:CMETE <course> _:DM1580 (year=2) .
+_:CMETE <course> _:DT1130 (year=2) .
+_:CMETE <course> _:DT1175 (year=2) .
+_:CMETE <course> _:SF1626 (year=2) .
+_:CMETE <course> _:SF1912 (year=2) .
+_:CMETE <course> _:SK1140 (year=2) .
+_:CMETE <course> _:DD1334 (year=3) .
+_:CMETE <course> _:DM129X (year=3) .
+_:cmeteBVT <course> _:DD2423 (year=3, kind="Obligatorisk") .
+_:cmeteBVT <course> _:DM2904 (year=3, kind="Obligatorisk") .
+_:cmeteBVT <course> _:SK2376 (year=3, kind="Obligatorisk") .
+_:cmeteCPS <course> _:DD2310 (year=3, kind="Obligatorisk") .
+_:cmeteCPS <course> _:DD2352 (year=3, kind="Obligatorisk") .
+_:cmeteCPS <course> _:DD2385 (year=3, kind="Obligatorisk") .
+_:cmeteCPS <course> _:SF1688 (year=3, kind="Obligatorisk") .
+_:cmeteINMT <course> _:DH2642 (year=3, kind="Obligatorisk") .
+_:cmeteINMT <course> _:DM2517 (year=3, kind="Obligatorisk") .
+_:cmeteINMT <course> _:DM2518 (year=3, kind="Obligatorisk") .
+_:cmeteLJD <course> _:DT2112 (year=3, kind="Obligatorisk") .
+_:cmeteLJD <course> _:DT2213 (year=3, kind="Obligatorisk") .
+_:cmeteLJD <course> _:DT2410 (year=3, kind="Obligatorisk") .

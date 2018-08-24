@@ -1,0 +1,5 @@
+name: string @index(term) .
+code: string @index(term) .
+hp: float .
+needs: uid @count.
+level: string @string(term) .

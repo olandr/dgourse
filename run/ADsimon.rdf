@@ -1,0 +1,13 @@
+_:simon <name> "Simon Olander Ålund" .
+_:simon <track> _:CDATE .
+_:simon <course> _:DA1600 (year=1, kind="Obligatorisk") .
+_:simon <course> _:DD1337 (year=1, kind="Obligatorisk") .
+_:simon <course> _:DD1338 (year=1, kind="Obligatorisk") .
+_:simon <course> _:DD1349 (year=1, kind="Obligatorisk") .
+_:simon <course> _:DD1390 (year=123, kind="Obligatorisk") .
+_:simon <course> _:DD1396 (year=1, kind="Obligatorisk") .
+_:simon <course> _:DH2620 (year=1, kind="Obligatorisk") .
+_:simon <course> _:SF1544 (year=1, kind="Obligatorisk") .
+_:simon <course> _:SF1624 (year=1, kind="Obligatorisk") .
+_:simon <course> _:SF1625 (year=1, kind="Obligatorisk") .
+_:simon <course> _:SF1671 (year=1, kind="Obligatorisk") .

@@ -1,5 +1,5 @@
 ### Please note:
-This whole repo got transferred from my school account. Hence the lack of commits, issues and project-boards.
+This whole repo got transferred from my school account. Hence the lack of commits, issues and project-boards etc.
 
 # kthgraph
 Experiments with a graph db (dgraph) focused on course relations on KTH

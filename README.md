@@ -46,3 +46,4 @@ The future for this project is bright. With the current formatting, it is very e
   }
 }
 ```
+![image](https://raw.githubusercontent.com/olandr/dgourse/master/src/pics/compsciVappmath5.png)
